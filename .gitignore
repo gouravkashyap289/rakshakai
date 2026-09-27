@@ -1,0 +1,16 @@
+.env
+**/.env
+**/node_modules/
+**/__pycache__/
+**/.pytest_cache/
+**/*.db
+**/*.db-*
+**/*.log
+**/.venv/
+**/*.tsbuildinfo
+**/*.mmdb
+!backend/data/GeoLite2-ASN.mmdb
+!backend/data/GeoLite2-City.mmdb
+work/
+/rakshak/
+/desktop-tutorial/

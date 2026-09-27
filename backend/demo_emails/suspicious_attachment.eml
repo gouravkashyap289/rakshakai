@@ -1,0 +1,17 @@
+From: Accounts <accounts@billing.example>
+To: Finance <finance@college.example>
+Subject: Urgent invoice attachment
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="rakshak-demo"
+
+--rakshak-demo
+Content-Type: text/plain; charset=utf-8
+
+Please review this invoice immediately. This is a static-analysis demonstration.
+--rakshak-demo
+Content-Type: application/octet-stream
+Content-Disposition: attachment; filename="invoice.pdf.exe"
+Content-Transfer-Encoding: base64
+
+VGhpcyBpcyBpbmVydCB0cmFpbmluZyB0ZXh0LCBub3QgYW4gZXhlY3V0YWJsZS4=
+--rakshak-demo--

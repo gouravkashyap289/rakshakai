@@ -1,0 +1,15 @@
+From: PayPal Security <security@paypa1-login.example>
+To: Student <student@college.example>
+Reply-To: Recovery <recover@account-support.example>
+Return-Path: <mailer@dispatch.example>
+Subject: URGENT: Verify your account or lose access
+Date: Fri, 11 Sep 2026 11:00:00 +0530
+Message-ID: <phish-001@paypa1-login.example>
+Authentication-Results: demo.receiver.example; spf=fail; dkim=fail; dmarc=fail
+MIME-Version: 1.0
+Content-Type: text/plain; charset=utf-8
+
+Your PayPal account will be suspended within 24 hours.
+Sign in immediately and verify your account password at http://paypa1-login.example/login/verify.
+Send your OTP verification code to prevent unauthorized access.
+This is a fictional training email. Domains use reserved .example names.

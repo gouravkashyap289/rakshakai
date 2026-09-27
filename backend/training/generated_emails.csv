@@ -1,0 +1,1001 @@
+id,subject,body,label,family,split
+RKS-0295,IT maintenance - 21,Planned maintenance for security systems begins on next Wednesday. Use the normal company portal. Reference message 0295.,0,IT maintenance,train
+RKS-0299,IT maintenance - 25,Planned maintenance for research systems begins on next Wednesday. Use the normal company portal. Reference message 0299.,0,IT maintenance,train
+RKS-0328,Policy update - 4,The updated remote-work policy is available on the internal staff site. Reference message 0328.,0,Policy update,train
+RKS-0865,Shared voicemail - 16,You received a confidential voicemail. Log in at https://security-check-865.example/login to listen. Reference message 0865.,1,Shared voicemail,train
+RKS-0499,Support closure - 25,Support ticket INV-2026499 is resolved. We will never ask for your password or OTP. Reference message 0499.,0,Support closure,test
+RKS-0066,Shipping notice - 17,Order INV-2026066 has shipped and delivery is scheduled for Monday. Reference message 0066.,0,Shipping notice,train
+RKS-0305,Travel itinerary - 6,Your approved travel itinerary is attached for the conference on 16 September. Reference message 0305.,0,Travel itinerary,train
+RKS-0951,Scholarship scam - 2,"Your grant was approved. Pay a processing charge of INR 52,000 today to claim it. Reference message 0951.",1,Scholarship scam,test
+RKS-0746,Tax threat - 22,"Legal action and a penalty will follow unless you pay INR 52,000 within 24 hours. Reference message 0746.",1,Tax threat,train
+RKS-0406,Benefits reminder - 7,Benefits enrollment closes on next Wednesday. Visit the bookmarked employee portal. Reference message 0406.,0,Benefits reminder,test
+RKS-0215,Password training - 16,Security training explains how to identify fake login pages and protect passwords. Reference message 0215.,0,Password training,train
+RKS-0988,Subscription renewal - 14,Your PayPal subscription failed. Update payment details at https://security-check-988.example/login within 12 hours. Reference message 0988.,1,Subscription renewal,test
+RKS-0722,Cloud share - 23,Meera shared a protected document. Sign in at https://security-check-722.example/login to view it. Reference message 0722.,1,Cloud share,train
+RKS-0572,OTP theft - 23,A login was detected. Send the OTP verification code to this address as soon as possible. Reference message 0572.,1,OTP theft,train
+RKS-0245,Approved transfer - 21,"The transfer of INR 52,000 was approved through our normal finance workflow. Reference message 0245.",0,Approved transfer,train
+RKS-0634,CEO fraud - 10,"I am the CEO and in a meeting. Buy gift cards worth USD 1,250. Do not call me. Reference message 0634.",1,CEO fraud,train
+RKS-0205,Password training - 6,Security training explains how to identify fake login pages and protect passwords. Reference message 0205.,0,Password training,train
+RKS-0201,Password training - 2,Security training explains how to identify fake login pages and protect passwords. Reference message 0201.,0,Password training,train
+RKS-0550,OTP theft - 1,A login was detected. Send the OTP verification code to this address immediately. Reference message 0550.,1,OTP theft,train
+RKS-0514,Account locked - 15,Your Amazon account is locked. Sign in at https://security-check-514.example/login and confirm your password as soon as possible. Reference message 0514.,1,Account locked,train
+RKS-0187,Meeting minutes - 13,The meeting minutes for Orion are attached. No urgent action is required. Reference message 0187.,0,Meeting minutes,train
+RKS-0861,Shared voicemail - 12,You received a confidential voicemail. Log in at https://security-check-861.example/login to listen. Reference message 0861.,1,Shared voicemail,train
+RKS-0689,Payroll update - 15,Payroll needs your bank account and password to release this month salary. Reference message 0689.,1,Payroll update,train
+RKS-0252,Invoice query - 3,Can you confirm whether invoice INV-2026252 was received? Payment is not yet requested. Reference message 0252.,0,Invoice query,train
+RKS-0435,Document collaboration - 11,Priya added comments to the Nimbus planning document. Reference message 0435.,0,Document collaboration,test
+RKS-0651,Fake invoice - 2,"Invoice INV-2026651 is overdue. Pay INR 18,500 using the account shown at https://security-check-651.example/login. Reference message 0651.",1,Fake invoice,train
+RKS-0720,Cloud share - 21,Meera shared a protected document. Sign in at https://security-check-720.example/login to view it. Reference message 0720.,1,Cloud share,train
+RKS-0966,Scholarship scam - 17,"Your grant was approved. Pay a processing charge of INR 18,500 today to claim it. Reference message 0966.",1,Scholarship scam,test
+RKS-0552,OTP theft - 3,A login was detected. Send the OTP verification code to this address as soon as possible. Reference message 0552.,1,OTP theft,train
+RKS-0080,Newsletter - 6,Here is the monthly finance newsletter and community update. Reference message 0080.,0,Newsletter,train
+RKS-0533,Mailbox suspension - 9,Your mailbox will be suspended tomorrow. Verify your credentials at https://security-check-533.example/login. Reference message 0533.,1,Mailbox suspension,train
+RKS-0727,Tax threat - 3,"Legal action and a penalty will follow unless you pay INR 18,500 today. Reference message 0727.",1,Tax threat,train
+RKS-0796,Security breach - 22,A security breach affected your Google profile. Confirm credentials at https://security-check-796.example/login. Reference message 0796.,1,Security breach,train
+RKS-0636,CEO fraud - 12,"I am the CEO and in a meeting. Buy gift cards worth USD 1,250. Do not call me. Reference message 0636.",1,CEO fraud,train
+RKS-0142,Security advice - 18,"Never share your password or OTP verification code with anyone, including support. Reference message 0142.",0,Security advice,train
+RKS-0803,Refund lure - 4,"A refund of USD 1,250 is waiting. Enter your banking details at https://security-check-803.example/login. Reference message 0803.",1,Refund lure,train
+RKS-0043,Project review - 19,The Rakshak project notes are ready for review before our next meeting. Reference message 0043.,0,Project review,train
+RKS-0989,Subscription renewal - 15,Your PayPal subscription failed. Update payment details at https://security-check-989.example/login within 12 hours. Reference message 0989.,1,Subscription renewal,test
+RKS-0015,Meeting agenda - 16,Attached is the agenda for the security meeting on Monday. No action is required. Reference message 0015.,0,Meeting agenda,train
+RKS-0110,Paid invoice - 11,"Invoice INV-2026110 for USD 1,250 was paid yesterday. Thank you for your business. Reference message 0110.",0,Paid invoice,train
+RKS-0378,Account confirmation - 4,"Your profile update was completed. If this was not you, contact support by phone. Reference message 0378.",0,Account confirmation,train
+RKS-0090,Newsletter - 16,Here is the monthly operations newsletter and community update. Reference message 0090.,0,Newsletter,train
+RKS-0990,Subscription renewal - 16,Your Google subscription failed. Update payment details at https://security-check-990.example/login within 12 hours. Reference message 0990.,1,Subscription renewal,test
+RKS-0495,Support closure - 21,Support ticket INV-2026495 is resolved. We will never ask for your password or OTP. Reference message 0495.,0,Support closure,test
+RKS-0047,Project review - 23,The Rakshak project notes are ready for review before our next meeting. Reference message 0047.,0,Project review,train
+RKS-0657,Fake invoice - 8,"Invoice INV-2026657 is overdue. Pay INR 18,500 using the account shown at https://security-check-657.example/login. Reference message 0657.",1,Fake invoice,train
+RKS-0608,Payment diversion - 9,"Our bank details changed. Transfer INR 52,000 to the new beneficiary within 24 hours. Reference message 0608.",1,Payment diversion,train
+RKS-0568,OTP theft - 19,A login was detected. Send the OTP verification code to this address today. Reference message 0568.,1,OTP theft,train
+RKS-0027,Project review - 3,The Orion project notes are ready for review before our next meeting. Reference message 0027.,0,Project review,train
+RKS-0663,Fake invoice - 14,"Invoice INV-2026663 is overdue. Pay INR 18,500 using the account shown at https://security-check-663.example/login. Reference message 0663.",1,Fake invoice,train
+RKS-0001,Meeting agenda - 2,Attached is the agenda for the research meeting on Monday. No action is required. Reference message 0001.,0,Meeting agenda,train
+RKS-0588,Password expiry - 14,Your company password expires tomorrow. Keep access by logging in through https://security-check-588.example/login. Reference message 0588.,1,Password expiry,train
+RKS-0858,Shared voicemail - 9,You received a confidential voicemail. Log in at https://security-check-858.example/login to listen. Reference message 0858.,1,Shared voicemail,train
+RKS-0474,Team recognition - 25,Congratulations to the security team for completing the quarterly milestone. Reference message 0474.,0,Team recognition,test
+RKS-0789,Security breach - 15,A security breach affected your Google profile. Confirm credentials at https://security-check-789.example/login. Reference message 0789.,1,Security breach,train
+RKS-0308,Travel itinerary - 9,Your approved travel itinerary is attached for the conference on 16 September. Reference message 0308.,0,Travel itinerary,train
+RKS-0906,VPN reset - 7,Your remote access will be deactivated. Validate your login at https://security-check-906.example/login immediately. Reference message 0906.,1,VPN reset,test
+RKS-0484,Support closure - 10,Support ticket INV-2026484 is resolved. We will never ask for your password or OTP. Reference message 0484.,0,Support closure,test
+RKS-0369,Receipt - 20,This is your receipt for USD 740. No further payment is due. Reference message 0369.,0,Receipt,train
+RKS-0185,Meeting minutes - 11,The meeting minutes for Beacon are attached. No urgent action is required. Reference message 0185.,0,Meeting minutes,train
+RKS-0828,Benefits enrollment - 4,Benefits enrollment closes within 12 hours. Verify your identity and password at https://security-check-828.example/login. Reference message 0828.,1,Benefits enrollment,train
+RKS-0347,Policy update - 23,The updated remote-work policy is available on the internal staff site. Reference message 0347.,0,Policy update,train
+RKS-0620,Payment diversion - 21,Our bank details changed. Transfer USD 740 to the new beneficiary immediately. Reference message 0620.,1,Payment diversion,train
+RKS-0995,Subscription renewal - 21,Your PayPal subscription failed. Update payment details at https://security-check-995.example/login within 12 hours. Reference message 0995.,1,Subscription renewal,test
+RKS-0859,Shared voicemail - 10,You received a confidential voicemail. Log in at https://security-check-859.example/login to listen. Reference message 0859.,1,Shared voicemail,train
+RKS-0149,Security advice - 25,"Never share your password or OTP verification code with anyone, including support. Reference message 0149.",0,Security advice,train
+RKS-0177,Meeting minutes - 3,The meeting minutes for Atlas are attached. No urgent action is required. Reference message 0177.,0,Meeting minutes,train
+RKS-0766,Delivery fee - 17,Your parcel is held. Pay the small redelivery fee at https://security-check-766.example/login immediately. Reference message 0766.,1,Delivery fee,train
+RKS-0821,Refund lure - 22,"A refund of INR 18,500 is waiting. Enter your banking details at https://security-check-821.example/login. Reference message 0821.",1,Refund lure,train
+RKS-0856,Shared voicemail - 7,You received a confidential voicemail. Log in at https://security-check-856.example/login to listen. Reference message 0856.,1,Shared voicemail,train
+RKS-0799,Security breach - 25,A security breach affected your Microsoft profile. Confirm credentials at https://security-check-799.example/login. Reference message 0799.,1,Security breach,train
+RKS-0716,Cloud share - 17,Jordan shared a protected document. Sign in at https://security-check-716.example/login to view it. Reference message 0716.,1,Cloud share,train
+RKS-0838,Benefits enrollment - 14,Benefits enrollment closes this Friday. Verify your identity and password at https://security-check-838.example/login. Reference message 0838.,1,Benefits enrollment,train
+RKS-0028,Project review - 4,The Beacon project notes are ready for review before our next meeting. Reference message 0028.,0,Project review,train
+RKS-0518,Account locked - 19,Your PayPal account is locked. Sign in at https://security-check-518.example/login and confirm your password today. Reference message 0518.,1,Account locked,train
+RKS-0410,Benefits reminder - 11,Benefits enrollment closes on 30 September. Visit the bookmarked employee portal. Reference message 0410.,0,Benefits reminder,test
+RKS-0352,Receipt - 3,"This is your receipt for INR 52,000. No further payment is due. Reference message 0352.",0,Receipt,train
+RKS-0053,Shipping notice - 4,Order INV-2026053 has shipped and delivery is scheduled for Monday. Reference message 0053.,0,Shipping notice,train
+RKS-0635,CEO fraud - 11,"I am the CEO and in a meeting. Buy gift cards worth USD 1,250. Do not call me. Reference message 0635.",1,CEO fraud,train
+RKS-0018,Meeting agenda - 19,Attached is the agenda for the research meeting on next Wednesday. No action is required. Reference message 0018.,0,Meeting agenda,train
+RKS-0500,Account locked - 1,Your Microsoft account is locked. Sign in at https://security-check-500.example/login and confirm your password immediately. Reference message 0500.,1,Account locked,train
+RKS-0439,Document collaboration - 15,Sam added comments to the Rakshak planning document. Reference message 0439.,0,Document collaboration,test
+RKS-0338,Policy update - 14,The updated remote-work policy is available on the internal staff site. Reference message 0338.,0,Policy update,train
+RKS-0071,Shipping notice - 22,Order INV-2026071 has shipped and delivery is scheduled for next Wednesday. Reference message 0071.,0,Shipping notice,train
+RKS-0541,Mailbox suspension - 17,Your mailbox will be suspended tomorrow. Verify your credentials at https://security-check-541.example/login. Reference message 0541.,1,Mailbox suspension,train
+RKS-0077,Newsletter - 3,Here is the monthly operations newsletter and community update. Reference message 0077.,0,Newsletter,train
+RKS-0953,Scholarship scam - 4,"Your grant was approved. Pay a processing charge of INR 52,000 today to claim it. Reference message 0953.",1,Scholarship scam,test
+RKS-0684,Payroll update - 10,Payroll needs your bank account and password to release this month salary. Reference message 0684.,1,Payroll update,train
+RKS-0355,Receipt - 6,This is your receipt for USD 740. No further payment is due. Reference message 0355.,0,Receipt,train
+RKS-0096,Newsletter - 22,Here is the monthly engineering newsletter and community update. Reference message 0096.,0,Newsletter,train
+RKS-0772,Delivery fee - 23,Your parcel is held. Pay the small redelivery fee at https://security-check-772.example/login today. Reference message 0772.,1,Delivery fee,train
+RKS-0805,Refund lure - 6,"A refund of USD 1,250 is waiting. Enter your banking details at https://security-check-805.example/login. Reference message 0805.",1,Refund lure,train
+RKS-0817,Refund lure - 18,"A refund of INR 18,500 is waiting. Enter your banking details at https://security-check-817.example/login. Reference message 0817.",1,Refund lure,train
+RKS-0179,Meeting minutes - 5,The meeting minutes for Beacon are attached. No urgent action is required. Reference message 0179.,0,Meeting minutes,train
+RKS-0972,Scholarship scam - 23,"Your grant was approved. Pay a processing charge of INR 18,500 today to claim it. Reference message 0972.",1,Scholarship scam,test
+RKS-0625,CEO fraud - 1,"I am the CEO and in a meeting. Buy gift cards worth INR 52,000. Do not call me. Reference message 0625.",1,CEO fraud,train
+RKS-0051,Shipping notice - 2,Order INV-2026051 has shipped and delivery is scheduled for Monday. Reference message 0051.,0,Shipping notice,train
+RKS-0661,Fake invoice - 12,"Invoice INV-2026661 is overdue. Pay USD 1,250 using the account shown at https://security-check-661.example/login. Reference message 0661.",1,Fake invoice,train
+RKS-0956,Scholarship scam - 7,"Your grant was approved. Pay a processing charge of INR 52,000 today to claim it. Reference message 0956.",1,Scholarship scam,test
+RKS-0826,Benefits enrollment - 2,Benefits enrollment closes this Friday. Verify your identity and password at https://security-check-826.example/login. Reference message 0826.,1,Benefits enrollment,train
+RKS-0892,Procurement fraud - 18,Confidential supplier change: send the next payment of USD 740 to our new account. Reference message 0892.,1,Procurement fraud,train
+RKS-0136,Security advice - 12,"Never share your password or OTP verification code with anyone, including support. Reference message 0136.",0,Security advice,train
+RKS-0289,IT maintenance - 15,Planned maintenance for operations systems begins on Monday. Use the normal company portal. Reference message 0289.,0,IT maintenance,train
+RKS-0536,Mailbox suspension - 12,Your mailbox will be suspended today. Verify your credentials at https://security-check-536.example/login. Reference message 0536.,1,Mailbox suspension,train
+RKS-0815,Refund lure - 16,"A refund of INR 52,000 is waiting. Enter your banking details at https://security-check-815.example/login. Reference message 0815.",1,Refund lure,train
+RKS-0184,Meeting minutes - 10,The meeting minutes for Rakshak are attached. No urgent action is required. Reference message 0184.,0,Meeting minutes,train
+RKS-0058,Shipping notice - 9,Order INV-2026058 has shipped and delivery is scheduled for Monday. Reference message 0058.,0,Shipping notice,train
+RKS-0875,Procurement fraud - 1,"Confidential supplier change: send the next payment of INR 18,500 to our new account. Reference message 0875.",1,Procurement fraud,train
+RKS-0249,Approved transfer - 25,"The transfer of INR 18,500 was approved through our normal finance workflow. Reference message 0249.",0,Approved transfer,train
+RKS-0646,CEO fraud - 22,"I am the CEO and in a meeting. Buy gift cards worth USD 1,250. Do not call me. Reference message 0646.",1,CEO fraud,train
+RKS-0033,Project review - 9,The Orion project notes are ready for review before our next meeting. Reference message 0033.,0,Project review,train
+RKS-0778,Security breach - 4,A security breach affected your Amazon profile. Confirm credentials at https://security-check-778.example/login. Reference message 0778.,1,Security breach,train
+RKS-0540,Mailbox suspension - 16,Your mailbox will be suspended within 12 hours. Verify your credentials at https://security-check-540.example/login. Reference message 0540.,1,Mailbox suspension,train
+RKS-0632,CEO fraud - 8,"I am the CEO and in a meeting. Buy gift cards worth INR 52,000. Do not call me. Reference message 0632.",1,CEO fraud,train
+RKS-0895,Procurement fraud - 21,"Confidential supplier change: send the next payment of USD 1,250 to our new account. Reference message 0895.",1,Procurement fraud,train
+RKS-0708,Cloud share - 9,Aarav shared a protected document. Sign in at https://security-check-708.example/login to view it. Reference message 0708.,1,Cloud share,train
+RKS-0612,Payment diversion - 13,"Our bank details changed. Transfer INR 18,500 to the new beneficiary today. Reference message 0612.",1,Payment diversion,train
+RKS-0672,Fake invoice - 23,"Invoice INV-2026672 is overdue. Pay INR 18,500 using the account shown at https://security-check-672.example/login. Reference message 0672.",1,Fake invoice,train
+RKS-0112,Paid invoice - 13,"Invoice INV-2026112 for USD 1,250 was paid yesterday. Thank you for your business. Reference message 0112.",0,Paid invoice,train
+RKS-0446,Document collaboration - 22,Jordan added comments to the Beacon planning document. Reference message 0446.,0,Document collaboration,test
+RKS-0475,Support closure - 1,Support ticket INV-2026475 is resolved. We will never ask for your password or OTP. Reference message 0475.,0,Support closure,test
+RKS-0618,Payment diversion - 19,"Our bank details changed. Transfer INR 52,000 to the new beneficiary as soon as possible. Reference message 0618.",1,Payment diversion,train
+RKS-0236,Approved transfer - 12,"The transfer of INR 18,500 was approved through our normal finance workflow. Reference message 0236.",0,Approved transfer,train
+RKS-0227,Approved transfer - 3,"The transfer of USD 1,250 was approved through our normal finance workflow. Reference message 0227.",0,Approved transfer,train
+RKS-0471,Team recognition - 22,Congratulations to the research team for completing the quarterly milestone. Reference message 0471.,0,Team recognition,test
+RKS-0747,Tax threat - 23,Legal action and a penalty will follow unless you pay USD 740 within 24 hours. Reference message 0747.,1,Tax threat,train
+RKS-0279,IT maintenance - 5,Planned maintenance for security systems begins on Monday. Use the normal company portal. Reference message 0279.,0,IT maintenance,train
+RKS-0538,Mailbox suspension - 14,Your mailbox will be suspended within 12 hours. Verify your credentials at https://security-check-538.example/login. Reference message 0538.,1,Mailbox suspension,train
+RKS-0468,Team recognition - 19,Congratulations to the operations team for completing the quarterly milestone. Reference message 0468.,0,Team recognition,test
+RKS-0176,Meeting minutes - 2,The meeting minutes for Nimbus are attached. No urgent action is required. Reference message 0176.,0,Meeting minutes,train
+RKS-0665,Fake invoice - 16,"Invoice INV-2026665 is overdue. Pay USD 1,250 using the account shown at https://security-check-665.example/login. Reference message 0665.",1,Fake invoice,train
+RKS-0855,Shared voicemail - 6,You received a confidential voicemail. Log in at https://security-check-855.example/login to listen. Reference message 0855.,1,Shared voicemail,train
+RKS-0137,Security advice - 13,"Never share your password or OTP verification code with anyone, including support. Reference message 0137.",0,Security advice,train
+RKS-0971,Scholarship scam - 22,Your grant was approved. Pay a processing charge of USD 740 today to claim it. Reference message 0971.,1,Scholarship scam,test
+RKS-0204,Password training - 5,Security training explains how to identify fake login pages and protect passwords. Reference message 0204.,0,Password training,train
+RKS-0221,Password training - 22,Security training explains how to identify fake login pages and protect passwords. Reference message 0221.,0,Password training,train
+RKS-0473,Team recognition - 24,Congratulations to the operations team for completing the quarterly milestone. Reference message 0473.,0,Team recognition,test
+RKS-0560,OTP theft - 11,A login was detected. Send the OTP verification code to this address as soon as possible. Reference message 0560.,1,OTP theft,train
+RKS-0579,Password expiry - 5,Your company password expires this Friday. Keep access by logging in through https://security-check-579.example/login. Reference message 0579.,1,Password expiry,train
+RKS-0531,Mailbox suspension - 7,Your mailbox will be suspended tomorrow. Verify your credentials at https://security-check-531.example/login. Reference message 0531.,1,Mailbox suspension,train
+RKS-0763,Delivery fee - 14,Your parcel is held. Pay the small redelivery fee at https://security-check-763.example/login immediately. Reference message 0763.,1,Delivery fee,train
+RKS-0644,CEO fraud - 20,"I am the CEO and in a meeting. Buy gift cards worth USD 1,250. Do not call me. Reference message 0644.",1,CEO fraud,train
+RKS-0264,Invoice query - 15,Can you confirm whether invoice INV-2026264 was received? Payment is not yet requested. Reference message 0264.,0,Invoice query,train
+RKS-0463,Team recognition - 14,Congratulations to the research team for completing the quarterly milestone. Reference message 0463.,0,Team recognition,test
+RKS-0692,Payroll update - 18,Payroll needs your bank account and password to release this month salary. Reference message 0692.,1,Payroll update,train
+RKS-0250,Invoice query - 1,Can you confirm whether invoice INV-2026250 was received? Payment is not yet requested. Reference message 0250.,0,Invoice query,train
+RKS-0329,Policy update - 5,The updated remote-work policy is available on the internal staff site. Reference message 0329.,0,Policy update,train
+RKS-0614,Payment diversion - 15,"Our bank details changed. Transfer USD 1,250 to the new beneficiary within 24 hours. Reference message 0614.",1,Payment diversion,train
+RKS-0777,Security breach - 3,A security breach affected your Amazon profile. Confirm credentials at https://security-check-777.example/login. Reference message 0777.,1,Security breach,train
+RKS-0654,Fake invoice - 5,"Invoice INV-2026654 is overdue. Pay INR 52,000 using the account shown at https://security-check-654.example/login. Reference message 0654.",1,Fake invoice,train
+RKS-0711,Cloud share - 12,Sam shared a protected document. Sign in at https://security-check-711.example/login to view it. Reference message 0711.,1,Cloud share,train
+RKS-0623,Payment diversion - 24,"Our bank details changed. Transfer USD 1,250 to the new beneficiary today. Reference message 0623.",1,Payment diversion,train
+RKS-0231,Approved transfer - 7,"The transfer of INR 52,000 was approved through our normal finance workflow. Reference message 0231.",0,Approved transfer,train
+RKS-0687,Payroll update - 13,Payroll needs your bank account and password to release this month salary. Reference message 0687.,1,Payroll update,train
+RKS-0585,Password expiry - 11,Your company password expires today. Keep access by logging in through https://security-check-585.example/login. Reference message 0585.,1,Password expiry,train
+RKS-0395,Account confirmation - 21,"Your profile update was completed. If this was not you, contact support by phone. Reference message 0395.",0,Account confirmation,train
+RKS-0958,Scholarship scam - 9,Your grant was approved. Pay a processing charge of USD 740 today to claim it. Reference message 0958.,1,Scholarship scam,test
+RKS-0491,Support closure - 17,Support ticket INV-2026491 is resolved. We will never ask for your password or OTP. Reference message 0491.,0,Support closure,test
+RKS-0954,Scholarship scam - 5,"Your grant was approved. Pay a processing charge of INR 18,500 today to claim it. Reference message 0954.",1,Scholarship scam,test
+RKS-0403,Benefits reminder - 4,Benefits enrollment closes on next Wednesday. Visit the bookmarked employee portal. Reference message 0403.,0,Benefits reminder,test
+RKS-0497,Support closure - 23,Support ticket INV-2026497 is resolved. We will never ask for your password or OTP. Reference message 0497.,0,Support closure,test
+RKS-0343,Policy update - 19,The updated remote-work policy is available on the internal staff site. Reference message 0343.,0,Policy update,train
+RKS-0900,VPN reset - 1,Your remote access will be deactivated. Validate your login at https://security-check-900.example/login immediately. Reference message 0900.,1,VPN reset,test
+RKS-0229,Approved transfer - 5,"The transfer of USD 1,250 was approved through our normal finance workflow. Reference message 0229.",0,Approved transfer,train
+RKS-0997,Subscription renewal - 23,Your PayPal subscription failed. Update payment details at https://security-check-997.example/login within 12 hours. Reference message 0997.,1,Subscription renewal,test
+RKS-0832,Benefits enrollment - 8,Benefits enrollment closes this Friday. Verify your identity and password at https://security-check-832.example/login. Reference message 0832.,1,Benefits enrollment,train
+RKS-0022,Meeting agenda - 23,Attached is the agenda for the engineering meeting on 16 September. No action is required. Reference message 0022.,0,Meeting agenda,train
+RKS-0042,Project review - 18,The Atlas project notes are ready for review before our next meeting. Reference message 0042.,0,Project review,train
+RKS-0874,Shared voicemail - 25,You received a confidential voicemail. Log in at https://security-check-874.example/login to listen. Reference message 0874.,1,Shared voicemail,train
+RKS-0921,VPN reset - 22,Your remote access will be deactivated. Validate your login at https://security-check-921.example/login immediately. Reference message 0921.,1,VPN reset,test
+RKS-0059,Shipping notice - 10,Order INV-2026059 has shipped and delivery is scheduled for 30 September. Reference message 0059.,0,Shipping notice,train
+RKS-0749,Tax threat - 25,"Legal action and a penalty will follow unless you pay INR 52,000 immediately. Reference message 0749.",1,Tax threat,train
+RKS-0594,Password expiry - 20,Your company password expires tomorrow. Keep access by logging in through https://security-check-594.example/login. Reference message 0594.,1,Password expiry,train
+RKS-0267,Invoice query - 18,Can you confirm whether invoice INV-2026267 was received? Payment is not yet requested. Reference message 0267.,0,Invoice query,train
+RKS-0017,Meeting agenda - 18,Attached is the agenda for the security meeting on Monday. No action is required. Reference message 0017.,0,Meeting agenda,train
+RKS-0776,Security breach - 2,A security breach affected your PayPal profile. Confirm credentials at https://security-check-776.example/login. Reference message 0776.,1,Security breach,train
+RKS-0490,Support closure - 16,Support ticket INV-2026490 is resolved. We will never ask for your password or OTP. Reference message 0490.,0,Support closure,test
+RKS-0310,Travel itinerary - 11,Your approved travel itinerary is attached for the conference on next Wednesday. Reference message 0310.,0,Travel itinerary,train
+RKS-0217,Password training - 18,Security training explains how to identify fake login pages and protect passwords. Reference message 0217.,0,Password training,train
+RKS-0172,Lunch plan - 23,Lunch is planned for noon on next Wednesday. Let me know if you can join. Reference message 0172.,0,Lunch plan,train
+RKS-0970,Scholarship scam - 21,"Your grant was approved. Pay a processing charge of USD 1,250 today to claim it. Reference message 0970.",1,Scholarship scam,test
+RKS-0243,Approved transfer - 19,"The transfer of USD 1,250 was approved through our normal finance workflow. Reference message 0243.",0,Approved transfer,train
+RKS-0686,Payroll update - 12,Payroll needs your bank account and password to release this month salary. Reference message 0686.,1,Payroll update,train
+RKS-0320,Travel itinerary - 21,Your approved travel itinerary is attached for the conference on next Wednesday. Reference message 0320.,0,Travel itinerary,train
+RKS-0382,Account confirmation - 8,"Your profile update was completed. If this was not you, contact support by phone. Reference message 0382.",0,Account confirmation,train
+RKS-0602,Payment diversion - 3,"Our bank details changed. Transfer INR 52,000 to the new beneficiary today. Reference message 0602.",1,Payment diversion,train
+RKS-0367,Receipt - 18,"This is your receipt for INR 52,000. No further payment is due. Reference message 0367.",0,Receipt,train
+RKS-0164,Lunch plan - 15,Lunch is planned for noon on next Wednesday. Let me know if you can join. Reference message 0164.,0,Lunch plan,train
+RKS-0161,Lunch plan - 12,Lunch is planned for noon on 16 September. Let me know if you can join. Reference message 0161.,0,Lunch plan,train
+RKS-0807,Refund lure - 8,"A refund of USD 1,250 is waiting. Enter your banking details at https://security-check-807.example/login. Reference message 0807.",1,Refund lure,train
+RKS-0833,Benefits enrollment - 9,Benefits enrollment closes within 12 hours. Verify your identity and password at https://security-check-833.example/login. Reference message 0833.,1,Benefits enrollment,train
+RKS-0111,Paid invoice - 12,"Invoice INV-2026111 for USD 1,250 was paid yesterday. Thank you for your business. Reference message 0111.",0,Paid invoice,train
+RKS-0559,OTP theft - 10,A login was detected. Send the OTP verification code to this address today. Reference message 0559.,1,OTP theft,train
+RKS-0163,Lunch plan - 14,Lunch is planned for noon on 30 September. Let me know if you can join. Reference message 0163.,0,Lunch plan,train
+RKS-0609,Payment diversion - 10,"Our bank details changed. Transfer INR 52,000 to the new beneficiary today. Reference message 0609.",1,Payment diversion,train
+RKS-0903,VPN reset - 4,Your remote access will be deactivated. Validate your login at https://security-check-903.example/login immediately. Reference message 0903.,1,VPN reset,test
+RKS-0638,CEO fraud - 14,"I am the CEO and in a meeting. Buy gift cards worth INR 52,000. Do not call me. Reference message 0638.",1,CEO fraud,train
+RKS-0907,VPN reset - 8,Your remote access will be deactivated. Validate your login at https://security-check-907.example/login immediately. Reference message 0907.,1,VPN reset,test
+RKS-0659,Fake invoice - 10,"Invoice INV-2026659 is overdue. Pay INR 18,500 using the account shown at https://security-check-659.example/login. Reference message 0659.",1,Fake invoice,train
+RKS-0050,Shipping notice - 1,Order INV-2026050 has shipped and delivery is scheduled for next Wednesday. Reference message 0050.,0,Shipping notice,train
+RKS-0011,Meeting agenda - 12,Attached is the agenda for the finance meeting on next Wednesday. No action is required. Reference message 0011.,0,Meeting agenda,train
+RKS-0643,CEO fraud - 19,"I am the CEO and in a meeting. Buy gift cards worth INR 18,500. Do not call me. Reference message 0643.",1,CEO fraud,train
+RKS-0925,Card alert - 1,Unauthorized card activity detected. Confirm your account and OTP at https://security-check-925.example/login. Reference message 0925.,1,Card alert,test
+RKS-0104,Paid invoice - 5,"Invoice INV-2026104 for USD 1,250 was paid yesterday. Thank you for your business. Reference message 0104.",0,Paid invoice,train
+RKS-0527,Mailbox suspension - 3,Your mailbox will be suspended tomorrow. Verify your credentials at https://security-check-527.example/login. Reference message 0527.,1,Mailbox suspension,train
+RKS-0432,Document collaboration - 8,Jordan added comments to the Rakshak planning document. Reference message 0432.,0,Document collaboration,test
+RKS-0285,IT maintenance - 11,Planned maintenance for operations systems begins on next Wednesday. Use the normal company portal. Reference message 0285.,0,IT maintenance,train
+RKS-0462,Team recognition - 13,Congratulations to the finance team for completing the quarterly milestone. Reference message 0462.,0,Team recognition,test
+RKS-0385,Account confirmation - 11,"Your profile update was completed. If this was not you, contact support by phone. Reference message 0385.",0,Account confirmation,train
+RKS-0685,Payroll update - 11,Payroll needs your bank account and password to release this month salary. Reference message 0685.,1,Payroll update,train
+RKS-0049,Project review - 25,The Orion project notes are ready for review before our next meeting. Reference message 0049.,0,Project review,train
+RKS-0670,Fake invoice - 21,Invoice INV-2026670 is overdue. Pay USD 740 using the account shown at https://security-check-670.example/login. Reference message 0670.,1,Fake invoice,train
+RKS-0792,Security breach - 18,A security breach affected your Apple profile. Confirm credentials at https://security-check-792.example/login. Reference message 0792.,1,Security breach,train
+RKS-0351,Receipt - 2,"This is your receipt for USD 1,250. No further payment is due. Reference message 0351.",0,Receipt,train
+RKS-0999,Subscription renewal - 25,Your Amazon subscription failed. Update payment details at https://security-check-999.example/login within 12 hours. Reference message 0999.,1,Subscription renewal,test
+RKS-0934,Card alert - 10,Unauthorized card activity detected. Confirm your account and OTP at https://security-check-934.example/login. Reference message 0934.,1,Card alert,test
+RKS-0118,Paid invoice - 19,Invoice INV-2026118 for USD 740 was paid yesterday. Thank you for your business. Reference message 0118.,0,Paid invoice,train
+RKS-0986,Subscription renewal - 12,Your Amazon subscription failed. Update payment details at https://security-check-986.example/login within 12 hours. Reference message 0986.,1,Subscription renewal,test
+RKS-0549,Mailbox suspension - 25,Your mailbox will be suspended today. Verify your credentials at https://security-check-549.example/login. Reference message 0549.,1,Mailbox suspension,train
+RKS-0122,Paid invoice - 23,"Invoice INV-2026122 for INR 52,000 was paid yesterday. Thank you for your business. Reference message 0122.",0,Paid invoice,train
+RKS-0169,Lunch plan - 20,Lunch is planned for noon on 30 September. Let me know if you can join. Reference message 0169.,0,Lunch plan,train
+RKS-0055,Shipping notice - 6,Order INV-2026055 has shipped and delivery is scheduled for next Wednesday. Reference message 0055.,0,Shipping notice,train
+RKS-0456,Team recognition - 7,Congratulations to the operations team for completing the quarterly milestone. Reference message 0456.,0,Team recognition,test
+RKS-0060,Shipping notice - 11,Order INV-2026060 has shipped and delivery is scheduled for Monday. Reference message 0060.,0,Shipping notice,train
+RKS-0963,Scholarship scam - 14,Your grant was approved. Pay a processing charge of USD 740 today to claim it. Reference message 0963.,1,Scholarship scam,test
+RKS-0416,Benefits reminder - 17,Benefits enrollment closes on next Wednesday. Visit the bookmarked employee portal. Reference message 0416.,0,Benefits reminder,test
+RKS-0804,Refund lure - 5,"A refund of INR 18,500 is waiting. Enter your banking details at https://security-check-804.example/login. Reference message 0804.",1,Refund lure,train
+RKS-0251,Invoice query - 2,Can you confirm whether invoice INV-2026251 was received? Payment is not yet requested. Reference message 0251.,0,Invoice query,train
+RKS-0904,VPN reset - 5,Your remote access will be deactivated. Validate your login at https://security-check-904.example/login immediately. Reference message 0904.,1,VPN reset,test
+RKS-0224,Password training - 25,Security training explains how to identify fake login pages and protect passwords. Reference message 0224.,0,Password training,train
+RKS-0770,Delivery fee - 21,Your parcel is held. Pay the small redelivery fee at https://security-check-770.example/login as soon as possible. Reference message 0770.,1,Delivery fee,train
+RKS-0917,VPN reset - 18,Your remote access will be deactivated. Validate your login at https://security-check-917.example/login immediately. Reference message 0917.,1,VPN reset,test
+RKS-0923,VPN reset - 24,Your remote access will be deactivated. Validate your login at https://security-check-923.example/login immediately. Reference message 0923.,1,VPN reset,test
+RKS-0461,Team recognition - 12,Congratulations to the security team for completing the quarterly milestone. Reference message 0461.,0,Team recognition,test
+RKS-0814,Refund lure - 15,"A refund of USD 1,250 is waiting. Enter your banking details at https://security-check-814.example/login. Reference message 0814.",1,Refund lure,train
+RKS-0501,Account locked - 2,Your Apple account is locked. Sign in at https://security-check-501.example/login and confirm your password as soon as possible. Reference message 0501.,1,Account locked,train
+RKS-0247,Approved transfer - 23,"The transfer of INR 18,500 was approved through our normal finance workflow. Reference message 0247.",0,Approved transfer,train
+RKS-0170,Lunch plan - 21,Lunch is planned for noon on 16 September. Let me know if you can join. Reference message 0170.,0,Lunch plan,train
+RKS-0754,Delivery fee - 5,Your parcel is held. Pay the small redelivery fee at https://security-check-754.example/login as soon as possible. Reference message 0754.,1,Delivery fee,train
+RKS-0761,Delivery fee - 12,Your parcel is held. Pay the small redelivery fee at https://security-check-761.example/login as soon as possible. Reference message 0761.,1,Delivery fee,train
+RKS-0676,Payroll update - 2,Payroll needs your bank account and password to release this month salary. Reference message 0676.,1,Payroll update,train
+RKS-0123,Paid invoice - 24,"Invoice INV-2026123 for INR 52,000 was paid yesterday. Thank you for your business. Reference message 0123.",0,Paid invoice,train
+RKS-0280,IT maintenance - 6,Planned maintenance for engineering systems begins on 16 September. Use the normal company portal. Reference message 0280.,0,IT maintenance,train
+RKS-0384,Account confirmation - 10,"Your profile update was completed. If this was not you, contact support by phone. Reference message 0384.",0,Account confirmation,train
+RKS-0214,Password training - 15,Security training explains how to identify fake login pages and protect passwords. Reference message 0214.,0,Password training,train
+RKS-0864,Shared voicemail - 15,You received a confidential voicemail. Log in at https://security-check-864.example/login to listen. Reference message 0864.,1,Shared voicemail,train
+RKS-0405,Benefits reminder - 6,Benefits enrollment closes on 16 September. Visit the bookmarked employee portal. Reference message 0405.,0,Benefits reminder,test
+RKS-0664,Fake invoice - 15,"Invoice INV-2026664 is overdue. Pay INR 18,500 using the account shown at https://security-check-664.example/login. Reference message 0664.",1,Fake invoice,train
+RKS-0412,Benefits reminder - 13,Benefits enrollment closes on next Wednesday. Visit the bookmarked employee portal. Reference message 0412.,0,Benefits reminder,test
+RKS-0081,Newsletter - 7,Here is the monthly engineering newsletter and community update. Reference message 0081.,0,Newsletter,train
+RKS-0662,Fake invoice - 13,Invoice INV-2026662 is overdue. Pay USD 740 using the account shown at https://security-check-662.example/login. Reference message 0662.,1,Fake invoice,train
+RKS-0880,Procurement fraud - 6,Confidential supplier change: send the next payment of USD 740 to our new account. Reference message 0880.,1,Procurement fraud,train
+RKS-0447,Document collaboration - 23,Priya added comments to the Rakshak planning document. Reference message 0447.,0,Document collaboration,test
+RKS-0408,Benefits reminder - 9,Benefits enrollment closes on next Wednesday. Visit the bookmarked employee portal. Reference message 0408.,0,Benefits reminder,test
+RKS-0143,Security advice - 19,"Never share your password or OTP verification code with anyone, including support. Reference message 0143.",0,Security advice,train
+RKS-0862,Shared voicemail - 13,You received a confidential voicemail. Log in at https://security-check-862.example/login to listen. Reference message 0862.,1,Shared voicemail,train
+RKS-0517,Account locked - 18,Your PayPal account is locked. Sign in at https://security-check-517.example/login and confirm your password today. Reference message 0517.,1,Account locked,train
+RKS-0274,Invoice query - 25,Can you confirm whether invoice INV-2026274 was received? Payment is not yet requested. Reference message 0274.,0,Invoice query,train
+RKS-0831,Benefits enrollment - 7,Benefits enrollment closes within 12 hours. Verify your identity and password at https://security-check-831.example/login. Reference message 0831.,1,Benefits enrollment,train
+RKS-0046,Project review - 22,The Rakshak project notes are ready for review before our next meeting. Reference message 0046.,0,Project review,train
+RKS-0725,Tax threat - 1,"Legal action and a penalty will follow unless you pay INR 52,000 today. Reference message 0725.",1,Tax threat,train
+RKS-0287,IT maintenance - 13,Planned maintenance for finance systems begins on 30 September. Use the normal company portal. Reference message 0287.,0,IT maintenance,train
+RKS-0639,CEO fraud - 15,"I am the CEO and in a meeting. Buy gift cards worth USD 1,250. Do not call me. Reference message 0639.",1,CEO fraud,train
+RKS-0016,Meeting agenda - 17,Attached is the agenda for the operations meeting on 30 September. No action is required. Reference message 0016.,0,Meeting agenda,train
+RKS-0908,VPN reset - 9,Your remote access will be deactivated. Validate your login at https://security-check-908.example/login immediately. Reference message 0908.,1,VPN reset,test
+RKS-0192,Meeting minutes - 18,The meeting minutes for Rakshak are attached. No urgent action is required. Reference message 0192.,0,Meeting minutes,train
+RKS-0200,Password training - 1,Security training explains how to identify fake login pages and protect passwords. Reference message 0200.,0,Password training,train
+RKS-0315,Travel itinerary - 16,Your approved travel itinerary is attached for the conference on 30 September. Reference message 0315.,0,Travel itinerary,train
+RKS-0239,Approved transfer - 15,"The transfer of USD 1,250 was approved through our normal finance workflow. Reference message 0239.",0,Approved transfer,train
+RKS-0372,Receipt - 23,"This is your receipt for INR 52,000. No further payment is due. Reference message 0372.",0,Receipt,train
+RKS-0551,OTP theft - 2,A login was detected. Send the OTP verification code to this address today. Reference message 0551.,1,OTP theft,train
+RKS-0486,Support closure - 12,Support ticket INV-2026486 is resolved. We will never ask for your password or OTP. Reference message 0486.,0,Support closure,test
+RKS-0144,Security advice - 20,"Never share your password or OTP verification code with anyone, including support. Reference message 0144.",0,Security advice,train
+RKS-0582,Password expiry - 8,Your company password expires this Friday. Keep access by logging in through https://security-check-582.example/login. Reference message 0582.,1,Password expiry,train
+RKS-0642,CEO fraud - 18,I am the CEO and in a meeting. Buy gift cards worth USD 740. Do not call me. Reference message 0642.,1,CEO fraud,train
+RKS-0741,Tax threat - 17,Legal action and a penalty will follow unless you pay USD 740 today. Reference message 0741.,1,Tax threat,train
+RKS-0121,Paid invoice - 22,"Invoice INV-2026121 for USD 1,250 was paid yesterday. Thank you for your business. Reference message 0121.",0,Paid invoice,train
+RKS-0094,Newsletter - 20,Here is the monthly operations newsletter and community update. Reference message 0094.,0,Newsletter,train
+RKS-0394,Account confirmation - 20,"Your profile update was completed. If this was not you, contact support by phone. Reference message 0394.",0,Account confirmation,train
+RKS-0061,Shipping notice - 12,Order INV-2026061 has shipped and delivery is scheduled for Monday. Reference message 0061.,0,Shipping notice,train
+RKS-0350,Receipt - 1,This is your receipt for USD 740. No further payment is due. Reference message 0350.,0,Receipt,train
+RKS-0968,Scholarship scam - 19,Your grant was approved. Pay a processing charge of USD 740 today to claim it. Reference message 0968.,1,Scholarship scam,test
+RKS-0254,Invoice query - 5,Can you confirm whether invoice INV-2026254 was received? Payment is not yet requested. Reference message 0254.,0,Invoice query,train
+RKS-0737,Tax threat - 13,"Legal action and a penalty will follow unless you pay USD 1,250 within 24 hours. Reference message 0737.",1,Tax threat,train
+RKS-0354,Receipt - 5,"This is your receipt for INR 52,000. No further payment is due. Reference message 0354.",0,Receipt,train
+RKS-0269,Invoice query - 20,Can you confirm whether invoice INV-2026269 was received? Payment is not yet requested. Reference message 0269.,0,Invoice query,train
+RKS-0478,Support closure - 4,Support ticket INV-2026478 is resolved. We will never ask for your password or OTP. Reference message 0478.,0,Support closure,test
+RKS-0628,CEO fraud - 4,"I am the CEO and in a meeting. Buy gift cards worth INR 18,500. Do not call me. Reference message 0628.",1,CEO fraud,train
+RKS-0195,Meeting minutes - 21,The meeting minutes for Orion are attached. No urgent action is required. Reference message 0195.,0,Meeting minutes,train
+RKS-0519,Account locked - 20,Your Microsoft account is locked. Sign in at https://security-check-519.example/login and confirm your password today. Reference message 0519.,1,Account locked,train
+RKS-0003,Meeting agenda - 4,Attached is the agenda for the research meeting on 16 September. No action is required. Reference message 0003.,0,Meeting agenda,train
+RKS-0356,Receipt - 7,"This is your receipt for INR 18,500. No further payment is due. Reference message 0356.",0,Receipt,train
+RKS-0948,Card alert - 24,Unauthorized card activity detected. Confirm your account and OTP at https://security-check-948.example/login. Reference message 0948.,1,Card alert,test
+RKS-0257,Invoice query - 8,Can you confirm whether invoice INV-2026257 was received? Payment is not yet requested. Reference message 0257.,0,Invoice query,train
+RKS-0929,Card alert - 5,Unauthorized card activity detected. Confirm your account and OTP at https://security-check-929.example/login. Reference message 0929.,1,Card alert,test
+RKS-0234,Approved transfer - 10,"The transfer of INR 18,500 was approved through our normal finance workflow. Reference message 0234.",0,Approved transfer,train
+RKS-0084,Newsletter - 10,Here is the monthly engineering newsletter and community update. Reference message 0084.,0,Newsletter,train
+RKS-0087,Newsletter - 13,Here is the monthly research newsletter and community update. Reference message 0087.,0,Newsletter,train
+RKS-0912,VPN reset - 13,Your remote access will be deactivated. Validate your login at https://security-check-912.example/login immediately. Reference message 0912.,1,VPN reset,test
+RKS-0075,Newsletter - 1,Here is the monthly finance newsletter and community update. Reference message 0075.,0,Newsletter,train
+RKS-0759,Delivery fee - 10,Your parcel is held. Pay the small redelivery fee at https://security-check-759.example/login today. Reference message 0759.,1,Delivery fee,train
+RKS-0606,Payment diversion - 7,"Our bank details changed. Transfer INR 18,500 to the new beneficiary within 24 hours. Reference message 0606.",1,Payment diversion,train
+RKS-0271,Invoice query - 22,Can you confirm whether invoice INV-2026271 was received? Payment is not yet requested. Reference message 0271.,0,Invoice query,train
+RKS-0040,Project review - 16,The Rakshak project notes are ready for review before our next meeting. Reference message 0040.,0,Project review,train
+RKS-0974,Scholarship scam - 25,"Your grant was approved. Pay a processing charge of INR 52,000 today to claim it. Reference message 0974.",1,Scholarship scam,test
+RKS-0709,Cloud share - 10,Jordan shared a protected document. Sign in at https://security-check-709.example/login to view it. Reference message 0709.,1,Cloud share,train
+RKS-0945,Card alert - 21,Unauthorized card activity detected. Confirm your account and OTP at https://security-check-945.example/login. Reference message 0945.,1,Card alert,test
+RKS-0411,Benefits reminder - 12,Benefits enrollment closes on 30 September. Visit the bookmarked employee portal. Reference message 0411.,0,Benefits reminder,test
+RKS-0014,Meeting agenda - 15,Attached is the agenda for the research meeting on Monday. No action is required. Reference message 0014.,0,Meeting agenda,train
+RKS-0278,IT maintenance - 4,Planned maintenance for finance systems begins on 30 September. Use the normal company portal. Reference message 0278.,0,IT maintenance,train
+RKS-0116,Paid invoice - 17,"Invoice INV-2026116 for INR 18,500 was paid yesterday. Thank you for your business. Reference message 0116.",0,Paid invoice,train
+RKS-0323,Travel itinerary - 24,Your approved travel itinerary is attached for the conference on Monday. Reference message 0323.,0,Travel itinerary,train
+RKS-0300,Travel itinerary - 1,Your approved travel itinerary is attached for the conference on 30 September. Reference message 0300.,0,Travel itinerary,train
+RKS-0074,Shipping notice - 25,Order INV-2026074 has shipped and delivery is scheduled for 30 September. Reference message 0074.,0,Shipping notice,train
+RKS-0752,Delivery fee - 3,Your parcel is held. Pay the small redelivery fee at https://security-check-752.example/login immediately. Reference message 0752.,1,Delivery fee,train
+RKS-0611,Payment diversion - 12,"Our bank details changed. Transfer USD 1,250 to the new beneficiary within 24 hours. Reference message 0611.",1,Payment diversion,train
+RKS-0322,Travel itinerary - 23,Your approved travel itinerary is attached for the conference on 30 September. Reference message 0322.,0,Travel itinerary,train
+RKS-0330,Policy update - 6,The updated remote-work policy is available on the internal staff site. Reference message 0330.,0,Policy update,train
+RKS-0139,Security advice - 15,"Never share your password or OTP verification code with anyone, including support. Reference message 0139.",0,Security advice,train
+RKS-0145,Security advice - 21,"Never share your password or OTP verification code with anyone, including support. Reference message 0145.",0,Security advice,train
+RKS-0212,Password training - 13,Security training explains how to identify fake login pages and protect passwords. Reference message 0212.,0,Password training,train
+RKS-0622,Payment diversion - 23,Our bank details changed. Transfer USD 740 to the new beneficiary today. Reference message 0622.,1,Payment diversion,train
+RKS-0150,Lunch plan - 1,Lunch is planned for noon on 16 September. Let me know if you can join. Reference message 0150.,0,Lunch plan,train
+RKS-0026,Project review - 2,The Beacon project notes are ready for review before our next meeting. Reference message 0026.,0,Project review,train
+RKS-0383,Account confirmation - 9,"Your profile update was completed. If this was not you, contact support by phone. Reference message 0383.",0,Account confirmation,train
+RKS-0341,Policy update - 17,The updated remote-work policy is available on the internal staff site. Reference message 0341.,0,Policy update,train
+RKS-0593,Password expiry - 19,Your company password expires tomorrow. Keep access by logging in through https://security-check-593.example/login. Reference message 0593.,1,Password expiry,train
+RKS-0127,Security advice - 3,"Never share your password or OTP verification code with anyone, including support. Reference message 0127.",0,Security advice,train
+RKS-0070,Shipping notice - 21,Order INV-2026070 has shipped and delivery is scheduled for 30 September. Reference message 0070.,0,Shipping notice,train
+RKS-0872,Shared voicemail - 23,You received a confidential voicemail. Log in at https://security-check-872.example/login to listen. Reference message 0872.,1,Shared voicemail,train
+RKS-0237,Approved transfer - 13,"The transfer of USD 1,250 was approved through our normal finance workflow. Reference message 0237.",0,Approved transfer,train
+RKS-0591,Password expiry - 17,Your company password expires today. Keep access by logging in through https://security-check-591.example/login. Reference message 0591.,1,Password expiry,train
+RKS-0325,Policy update - 1,The updated remote-work policy is available on the internal staff site. Reference message 0325.,0,Policy update,train
+RKS-0427,Document collaboration - 3,Aarav added comments to the Rakshak planning document. Reference message 0427.,0,Document collaboration,test
+RKS-0589,Password expiry - 15,Your company password expires within 12 hours. Keep access by logging in through https://security-check-589.example/login. Reference message 0589.,1,Password expiry,train
+RKS-0076,Newsletter - 2,Here is the monthly research newsletter and community update. Reference message 0076.,0,Newsletter,train
+RKS-0126,Security advice - 2,"Never share your password or OTP verification code with anyone, including support. Reference message 0126.",0,Security advice,train
+RKS-0319,Travel itinerary - 20,Your approved travel itinerary is attached for the conference on 16 September. Reference message 0319.,0,Travel itinerary,train
+RKS-0677,Payroll update - 3,Payroll needs your bank account and password to release this month salary. Reference message 0677.,1,Payroll update,train
+RKS-0034,Project review - 10,The Rakshak project notes are ready for review before our next meeting. Reference message 0034.,0,Project review,train
+RKS-0399,Account confirmation - 25,"Your profile update was completed. If this was not you, contact support by phone. Reference message 0399.",0,Account confirmation,train
+RKS-0203,Password training - 4,Security training explains how to identify fake login pages and protect passwords. Reference message 0203.,0,Password training,train
+RKS-0546,Mailbox suspension - 22,Your mailbox will be suspended tomorrow. Verify your credentials at https://security-check-546.example/login. Reference message 0546.,1,Mailbox suspension,train
+RKS-0483,Support closure - 9,Support ticket INV-2026483 is resolved. We will never ask for your password or OTP. Reference message 0483.,0,Support closure,test
+RKS-0293,IT maintenance - 19,Planned maintenance for finance systems begins on Monday. Use the normal company portal. Reference message 0293.,0,IT maintenance,train
+RKS-0008,Meeting agenda - 9,Attached is the agenda for the engineering meeting on 30 September. No action is required. Reference message 0008.,0,Meeting agenda,train
+RKS-0062,Shipping notice - 13,Order INV-2026062 has shipped and delivery is scheduled for 16 September. Reference message 0062.,0,Shipping notice,train
+RKS-0453,Team recognition - 4,Congratulations to the operations team for completing the quarterly milestone. Reference message 0453.,0,Team recognition,test
+RKS-0919,VPN reset - 20,Your remote access will be deactivated. Validate your login at https://security-check-919.example/login immediately. Reference message 0919.,1,VPN reset,test
+RKS-0296,IT maintenance - 22,Planned maintenance for research systems begins on 16 September. Use the normal company portal. Reference message 0296.,0,IT maintenance,train
+RKS-0769,Delivery fee - 20,Your parcel is held. Pay the small redelivery fee at https://security-check-769.example/login as soon as possible. Reference message 0769.,1,Delivery fee,train
+RKS-0626,CEO fraud - 2,"I am the CEO and in a meeting. Buy gift cards worth INR 52,000. Do not call me. Reference message 0626.",1,CEO fraud,train
+RKS-0041,Project review - 17,The Orion project notes are ready for review before our next meeting. Reference message 0041.,0,Project review,train
+RKS-0704,Cloud share - 5,Sam shared a protected document. Sign in at https://security-check-704.example/login to view it. Reference message 0704.,1,Cloud share,train
+RKS-0926,Card alert - 2,Unauthorized card activity detected. Confirm your account and OTP at https://security-check-926.example/login. Reference message 0926.,1,Card alert,test
+RKS-0281,IT maintenance - 7,Planned maintenance for operations systems begins on 30 September. Use the normal company portal. Reference message 0281.,0,IT maintenance,train
+RKS-0064,Shipping notice - 15,Order INV-2026064 has shipped and delivery is scheduled for Monday. Reference message 0064.,0,Shipping notice,train
+RKS-0306,Travel itinerary - 7,Your approved travel itinerary is attached for the conference on next Wednesday. Reference message 0306.,0,Travel itinerary,train
+RKS-0178,Meeting minutes - 4,The meeting minutes for Nimbus are attached. No urgent action is required. Reference message 0178.,0,Meeting minutes,train
+RKS-0297,IT maintenance - 23,Planned maintenance for research systems begins on 16 September. Use the normal company portal. Reference message 0297.,0,IT maintenance,train
+RKS-0734,Tax threat - 10,"Legal action and a penalty will follow unless you pay INR 18,500 immediately. Reference message 0734.",1,Tax threat,train
+RKS-0850,Shared voicemail - 1,You received a confidential voicemail. Log in at https://security-check-850.example/login to listen. Reference message 0850.,1,Shared voicemail,train
+RKS-0757,Delivery fee - 8,Your parcel is held. Pay the small redelivery fee at https://security-check-757.example/login as soon as possible. Reference message 0757.,1,Delivery fee,train
+RKS-0147,Security advice - 23,"Never share your password or OTP verification code with anyone, including support. Reference message 0147.",0,Security advice,train
+RKS-0133,Security advice - 9,"Never share your password or OTP verification code with anyone, including support. Reference message 0133.",0,Security advice,train
+RKS-0873,Shared voicemail - 24,You received a confidential voicemail. Log in at https://security-check-873.example/login to listen. Reference message 0873.,1,Shared voicemail,train
+RKS-0794,Security breach - 20,A security breach affected your Microsoft profile. Confirm credentials at https://security-check-794.example/login. Reference message 0794.,1,Security breach,train
+RKS-0023,Meeting agenda - 24,Attached is the agenda for the security meeting on Monday. No action is required. Reference message 0023.,0,Meeting agenda,train
+RKS-0581,Password expiry - 7,Your company password expires within 12 hours. Keep access by logging in through https://security-check-581.example/login. Reference message 0581.,1,Password expiry,train
+RKS-0922,VPN reset - 23,Your remote access will be deactivated. Validate your login at https://security-check-922.example/login immediately. Reference message 0922.,1,VPN reset,test
+RKS-0840,Benefits enrollment - 16,Benefits enrollment closes this Friday. Verify your identity and password at https://security-check-840.example/login. Reference message 0840.,1,Benefits enrollment,train
+RKS-0261,Invoice query - 12,Can you confirm whether invoice INV-2026261 was received? Payment is not yet requested. Reference message 0261.,0,Invoice query,train
+RKS-0721,Cloud share - 22,Sam shared a protected document. Sign in at https://security-check-721.example/login to view it. Reference message 0721.,1,Cloud share,train
+RKS-0658,Fake invoice - 9,"Invoice INV-2026658 is overdue. Pay INR 52,000 using the account shown at https://security-check-658.example/login. Reference message 0658.",1,Fake invoice,train
+RKS-0052,Shipping notice - 3,Order INV-2026052 has shipped and delivery is scheduled for 30 September. Reference message 0052.,0,Shipping notice,train
+RKS-0091,Newsletter - 17,Here is the monthly engineering newsletter and community update. Reference message 0091.,0,Newsletter,train
+RKS-0899,Procurement fraud - 25,"Confidential supplier change: send the next payment of INR 52,000 to our new account. Reference message 0899.",1,Procurement fraud,train
+RKS-0168,Lunch plan - 19,Lunch is planned for noon on 30 September. Let me know if you can join. Reference message 0168.,0,Lunch plan,train
+RKS-0979,Subscription renewal - 5,Your PayPal subscription failed. Update payment details at https://security-check-979.example/login within 12 hours. Reference message 0979.,1,Subscription renewal,test
+RKS-0186,Meeting minutes - 12,The meeting minutes for Orion are attached. No urgent action is required. Reference message 0186.,0,Meeting minutes,train
+RKS-0444,Document collaboration - 20,Jordan added comments to the Nimbus planning document. Reference message 0444.,0,Document collaboration,test
+RKS-0266,Invoice query - 17,Can you confirm whether invoice INV-2026266 was received? Payment is not yet requested. Reference message 0266.,0,Invoice query,train
+RKS-0433,Document collaboration - 9,Meera added comments to the Atlas planning document. Reference message 0433.,0,Document collaboration,test
+RKS-0337,Policy update - 13,The updated remote-work policy is available on the internal staff site. Reference message 0337.,0,Policy update,train
+RKS-0036,Project review - 12,The Nimbus project notes are ready for review before our next meeting. Reference message 0036.,0,Project review,train
+RKS-0379,Account confirmation - 5,"Your profile update was completed. If this was not you, contact support by phone. Reference message 0379.",0,Account confirmation,train
+RKS-0182,Meeting minutes - 8,The meeting minutes for Orion are attached. No urgent action is required. Reference message 0182.,0,Meeting minutes,train
+RKS-0667,Fake invoice - 18,Invoice INV-2026667 is overdue. Pay USD 740 using the account shown at https://security-check-667.example/login. Reference message 0667.,1,Fake invoice,train
+RKS-0056,Shipping notice - 7,Order INV-2026056 has shipped and delivery is scheduled for 30 September. Reference message 0056.,0,Shipping notice,train
+RKS-0377,Account confirmation - 3,"Your profile update was completed. If this was not you, contact support by phone. Reference message 0377.",0,Account confirmation,train
+RKS-0428,Document collaboration - 4,Aarav added comments to the Atlas planning document. Reference message 0428.,0,Document collaboration,test
+RKS-0180,Meeting minutes - 6,The meeting minutes for Atlas are attached. No urgent action is required. Reference message 0180.,0,Meeting minutes,train
+RKS-0529,Mailbox suspension - 5,Your mailbox will be suspended tomorrow. Verify your credentials at https://security-check-529.example/login. Reference message 0529.,1,Mailbox suspension,train
+RKS-0732,Tax threat - 8,"Legal action and a penalty will follow unless you pay INR 18,500 immediately. Reference message 0732.",1,Tax threat,train
+RKS-0941,Card alert - 17,Unauthorized card activity detected. Confirm your account and OTP at https://security-check-941.example/login. Reference message 0941.,1,Card alert,test
+RKS-0148,Security advice - 24,"Never share your password or OTP verification code with anyone, including support. Reference message 0148.",0,Security advice,train
+RKS-0960,Scholarship scam - 11,"Your grant was approved. Pay a processing charge of INR 52,000 today to claim it. Reference message 0960.",1,Scholarship scam,test
+RKS-0240,Approved transfer - 16,"The transfer of INR 52,000 was approved through our normal finance workflow. Reference message 0240.",0,Approved transfer,train
+RKS-0996,Subscription renewal - 22,Your Apple subscription failed. Update payment details at https://security-check-996.example/login within 12 hours. Reference message 0996.,1,Subscription renewal,test
+RKS-0273,Invoice query - 24,Can you confirm whether invoice INV-2026273 was received? Payment is not yet requested. Reference message 0273.,0,Invoice query,train
+RKS-0171,Lunch plan - 22,Lunch is planned for noon on next Wednesday. Let me know if you can join. Reference message 0171.,0,Lunch plan,train
+RKS-0924,VPN reset - 25,Your remote access will be deactivated. Validate your login at https://security-check-924.example/login immediately. Reference message 0924.,1,VPN reset,test
+RKS-0535,Mailbox suspension - 11,Your mailbox will be suspended tomorrow. Verify your credentials at https://security-check-535.example/login. Reference message 0535.,1,Mailbox suspension,train
+RKS-0601,Payment diversion - 2,"Our bank details changed. Transfer USD 1,250 to the new beneficiary immediately. Reference message 0601.",1,Payment diversion,train
+RKS-0595,Password expiry - 21,Your company password expires today. Keep access by logging in through https://security-check-595.example/login. Reference message 0595.,1,Password expiry,train
+RKS-0513,Account locked - 14,Your Microsoft account is locked. Sign in at https://security-check-513.example/login and confirm your password immediately. Reference message 0513.,1,Account locked,train
+RKS-0489,Support closure - 15,Support ticket INV-2026489 is resolved. We will never ask for your password or OTP. Reference message 0489.,0,Support closure,test
+RKS-0982,Subscription renewal - 8,Your Apple subscription failed. Update payment details at https://security-check-982.example/login within 12 hours. Reference message 0982.,1,Subscription renewal,test
+RKS-0460,Team recognition - 11,Congratulations to the research team for completing the quarterly milestone. Reference message 0460.,0,Team recognition,test
+RKS-0940,Card alert - 16,Unauthorized card activity detected. Confirm your account and OTP at https://security-check-940.example/login. Reference message 0940.,1,Card alert,test
+RKS-0590,Password expiry - 16,Your company password expires within 12 hours. Keep access by logging in through https://security-check-590.example/login. Reference message 0590.,1,Password expiry,train
+RKS-0423,Benefits reminder - 24,Benefits enrollment closes on Monday. Visit the bookmarked employee portal. Reference message 0423.,0,Benefits reminder,test
+RKS-0845,Benefits enrollment - 21,Benefits enrollment closes tomorrow. Verify your identity and password at https://security-check-845.example/login. Reference message 0845.,1,Benefits enrollment,train
+RKS-0303,Travel itinerary - 4,Your approved travel itinerary is attached for the conference on Monday. Reference message 0303.,0,Travel itinerary,train
+RKS-0324,Travel itinerary - 25,Your approved travel itinerary is attached for the conference on 30 September. Reference message 0324.,0,Travel itinerary,train
+RKS-0119,Paid invoice - 20,Invoice INV-2026119 for USD 740 was paid yesterday. Thank you for your business. Reference message 0119.,0,Paid invoice,train
+RKS-0655,Fake invoice - 6,"Invoice INV-2026655 is overdue. Pay INR 18,500 using the account shown at https://security-check-655.example/login. Reference message 0655.",1,Fake invoice,train
+RKS-0827,Benefits enrollment - 3,Benefits enrollment closes within 12 hours. Verify your identity and password at https://security-check-827.example/login. Reference message 0827.,1,Benefits enrollment,train
+RKS-0418,Benefits reminder - 19,Benefits enrollment closes on 30 September. Visit the bookmarked employee portal. Reference message 0418.,0,Benefits reminder,test
+RKS-0791,Security breach - 17,A security breach affected your Microsoft profile. Confirm credentials at https://security-check-791.example/login. Reference message 0791.,1,Security breach,train
+RKS-0362,Receipt - 13,"This is your receipt for USD 1,250. No further payment is due. Reference message 0362.",0,Receipt,train
+RKS-0222,Password training - 23,Security training explains how to identify fake login pages and protect passwords. Reference message 0222.,0,Password training,train
+RKS-0225,Approved transfer - 1,"The transfer of USD 1,250 was approved through our normal finance workflow. Reference message 0225.",0,Approved transfer,train
+RKS-0103,Paid invoice - 4,"Invoice INV-2026103 for INR 52,000 was paid yesterday. Thank you for your business. Reference message 0103.",0,Paid invoice,train
+RKS-0275,IT maintenance - 1,Planned maintenance for engineering systems begins on Monday. Use the normal company portal. Reference message 0275.,0,IT maintenance,train
+RKS-0773,Delivery fee - 24,Your parcel is held. Pay the small redelivery fee at https://security-check-773.example/login immediately. Reference message 0773.,1,Delivery fee,train
+RKS-0532,Mailbox suspension - 8,Your mailbox will be suspended this Friday. Verify your credentials at https://security-check-532.example/login. Reference message 0532.,1,Mailbox suspension,train
+RKS-0381,Account confirmation - 7,"Your profile update was completed. If this was not you, contact support by phone. Reference message 0381.",0,Account confirmation,train
+RKS-0307,Travel itinerary - 8,Your approved travel itinerary is attached for the conference on 16 September. Reference message 0307.,0,Travel itinerary,train
+RKS-0268,Invoice query - 19,Can you confirm whether invoice INV-2026268 was received? Payment is not yet requested. Reference message 0268.,0,Invoice query,train
+RKS-0151,Lunch plan - 2,Lunch is planned for noon on 16 September. Let me know if you can join. Reference message 0151.,0,Lunch plan,train
+RKS-0793,Security breach - 19,A security breach affected your Microsoft profile. Confirm credentials at https://security-check-793.example/login. Reference message 0793.,1,Security breach,train
+RKS-0811,Refund lure - 12,A refund of USD 740 is waiting. Enter your banking details at https://security-check-811.example/login. Reference message 0811.,1,Refund lure,train
+RKS-0312,Travel itinerary - 13,Your approved travel itinerary is attached for the conference on 30 September. Reference message 0312.,0,Travel itinerary,train
+RKS-0181,Meeting minutes - 7,The meeting minutes for Rakshak are attached. No urgent action is required. Reference message 0181.,0,Meeting minutes,train
+RKS-0822,Refund lure - 23,"A refund of INR 52,000 is waiting. Enter your banking details at https://security-check-822.example/login. Reference message 0822.",1,Refund lure,train
+RKS-0241,Approved transfer - 17,The transfer of USD 740 was approved through our normal finance workflow. Reference message 0241.,0,Approved transfer,train
+RKS-0669,Fake invoice - 20,"Invoice INV-2026669 is overdue. Pay INR 52,000 using the account shown at https://security-check-669.example/login. Reference message 0669.",1,Fake invoice,train
+RKS-0578,Password expiry - 4,Your company password expires within 12 hours. Keep access by logging in through https://security-check-578.example/login. Reference message 0578.,1,Password expiry,train
+RKS-0969,Scholarship scam - 20,"Your grant was approved. Pay a processing charge of USD 1,250 today to claim it. Reference message 0969.",1,Scholarship scam,test
+RKS-0516,Account locked - 17,Your Apple account is locked. Sign in at https://security-check-516.example/login and confirm your password today. Reference message 0516.,1,Account locked,train
+RKS-0993,Subscription renewal - 19,Your Microsoft subscription failed. Update payment details at https://security-check-993.example/login within 12 hours. Reference message 0993.,1,Subscription renewal,test
+RKS-0160,Lunch plan - 11,Lunch is planned for noon on 16 September. Let me know if you can join. Reference message 0160.,0,Lunch plan,train
+RKS-0511,Account locked - 12,Your Amazon account is locked. Sign in at https://security-check-511.example/login and confirm your password as soon as possible. Reference message 0511.,1,Account locked,train
+RKS-0089,Newsletter - 15,Here is the monthly finance newsletter and community update. Reference message 0089.,0,Newsletter,train
+RKS-0199,Meeting minutes - 25,The meeting minutes for Rakshak are attached. No urgent action is required. Reference message 0199.,0,Meeting minutes,train
+RKS-0653,Fake invoice - 4,"Invoice INV-2026653 is overdue. Pay INR 18,500 using the account shown at https://security-check-653.example/login. Reference message 0653.",1,Fake invoice,train
+RKS-0775,Security breach - 1,A security breach affected your Apple profile. Confirm credentials at https://security-check-775.example/login. Reference message 0775.,1,Security breach,train
+RKS-0853,Shared voicemail - 4,You received a confidential voicemail. Log in at https://security-check-853.example/login to listen. Reference message 0853.,1,Shared voicemail,train
+RKS-0898,Procurement fraud - 24,Confidential supplier change: send the next payment of USD 740 to our new account. Reference message 0898.,1,Procurement fraud,train
+RKS-0317,Travel itinerary - 18,Your approved travel itinerary is attached for the conference on Monday. Reference message 0317.,0,Travel itinerary,train
+RKS-0216,Password training - 17,Security training explains how to identify fake login pages and protect passwords. Reference message 0216.,0,Password training,train
+RKS-0885,Procurement fraud - 11,"Confidential supplier change: send the next payment of INR 52,000 to our new account. Reference message 0885.",1,Procurement fraud,train
+RKS-0469,Team recognition - 20,Congratulations to the engineering team for completing the quarterly milestone. Reference message 0469.,0,Team recognition,test
+RKS-0717,Cloud share - 18,Aarav shared a protected document. Sign in at https://security-check-717.example/login to view it. Reference message 0717.,1,Cloud share,train
+RKS-0105,Paid invoice - 6,Invoice INV-2026105 for USD 740 was paid yesterday. Thank you for your business. Reference message 0105.,0,Paid invoice,train
+RKS-0615,Payment diversion - 16,"Our bank details changed. Transfer INR 52,000 to the new beneficiary as soon as possible. Reference message 0615.",1,Payment diversion,train
+RKS-0673,Fake invoice - 24,"Invoice INV-2026673 is overdue. Pay INR 18,500 using the account shown at https://security-check-673.example/login. Reference message 0673.",1,Fake invoice,train
+RKS-0498,Support closure - 24,Support ticket INV-2026498 is resolved. We will never ask for your password or OTP. Reference message 0498.,0,Support closure,test
+RKS-0927,Card alert - 3,Unauthorized card activity detected. Confirm your account and OTP at https://security-check-927.example/login. Reference message 0927.,1,Card alert,test
+RKS-0037,Project review - 13,The Beacon project notes are ready for review before our next meeting. Reference message 0037.,0,Project review,train
+RKS-0914,VPN reset - 15,Your remote access will be deactivated. Validate your login at https://security-check-914.example/login immediately. Reference message 0914.,1,VPN reset,test
+RKS-0397,Account confirmation - 23,"Your profile update was completed. If this was not you, contact support by phone. Reference message 0397.",0,Account confirmation,train
+RKS-0504,Account locked - 5,Your Microsoft account is locked. Sign in at https://security-check-504.example/login and confirm your password as soon as possible. Reference message 0504.,1,Account locked,train
+RKS-0233,Approved transfer - 9,"The transfer of INR 18,500 was approved through our normal finance workflow. Reference message 0233.",0,Approved transfer,train
+RKS-0656,Fake invoice - 7,"Invoice INV-2026656 is overdue. Pay INR 52,000 using the account shown at https://security-check-656.example/login. Reference message 0656.",1,Fake invoice,train
+RKS-0565,OTP theft - 16,A login was detected. Send the OTP verification code to this address today. Reference message 0565.,1,OTP theft,train
+RKS-0947,Card alert - 23,Unauthorized card activity detected. Confirm your account and OTP at https://security-check-947.example/login. Reference message 0947.,1,Card alert,test
+RKS-0795,Security breach - 21,A security breach affected your PayPal profile. Confirm credentials at https://security-check-795.example/login. Reference message 0795.,1,Security breach,train
+RKS-0571,OTP theft - 22,A login was detected. Send the OTP verification code to this address as soon as possible. Reference message 0571.,1,OTP theft,train
+RKS-0691,Payroll update - 17,Payroll needs your bank account and password to release this month salary. Reference message 0691.,1,Payroll update,train
+RKS-0515,Account locked - 16,Your PayPal account is locked. Sign in at https://security-check-515.example/login and confirm your password immediately. Reference message 0515.,1,Account locked,train
+RKS-0785,Security breach - 11,A security breach affected your PayPal profile. Confirm credentials at https://security-check-785.example/login. Reference message 0785.,1,Security breach,train
+RKS-0057,Shipping notice - 8,Order INV-2026057 has shipped and delivery is scheduled for 30 September. Reference message 0057.,0,Shipping notice,train
+RKS-0730,Tax threat - 6,"Legal action and a penalty will follow unless you pay INR 18,500 today. Reference message 0730.",1,Tax threat,train
+RKS-0448,Document collaboration - 24,Jordan added comments to the Orion planning document. Reference message 0448.,0,Document collaboration,test
+RKS-0998,Subscription renewal - 24,Your Apple subscription failed. Update payment details at https://security-check-998.example/login within 12 hours. Reference message 0998.,1,Subscription renewal,test
+RKS-0713,Cloud share - 14,Jordan shared a protected document. Sign in at https://security-check-713.example/login to view it. Reference message 0713.,1,Cloud share,train
+RKS-0857,Shared voicemail - 8,You received a confidential voicemail. Log in at https://security-check-857.example/login to listen. Reference message 0857.,1,Shared voicemail,train
+RKS-0894,Procurement fraud - 20,"Confidential supplier change: send the next payment of INR 18,500 to our new account. Reference message 0894.",1,Procurement fraud,train
+RKS-0719,Cloud share - 20,Meera shared a protected document. Sign in at https://security-check-719.example/login to view it. Reference message 0719.,1,Cloud share,train
+RKS-0596,Password expiry - 22,Your company password expires today. Keep access by logging in through https://security-check-596.example/login. Reference message 0596.,1,Password expiry,train
+RKS-0366,Receipt - 17,"This is your receipt for INR 52,000. No further payment is due. Reference message 0366.",0,Receipt,train
+RKS-0409,Benefits reminder - 10,Benefits enrollment closes on 30 September. Visit the bookmarked employee portal. Reference message 0409.,0,Benefits reminder,test
+RKS-0393,Account confirmation - 19,"Your profile update was completed. If this was not you, contact support by phone. Reference message 0393.",0,Account confirmation,train
+RKS-0436,Document collaboration - 12,Priya added comments to the Nimbus planning document. Reference message 0436.,0,Document collaboration,test
+RKS-0445,Document collaboration - 21,Aarav added comments to the Nimbus planning document. Reference message 0445.,0,Document collaboration,test
+RKS-0736,Tax threat - 12,Legal action and a penalty will follow unless you pay USD 740 as soon as possible. Reference message 0736.,1,Tax threat,train
+RKS-0396,Account confirmation - 22,"Your profile update was completed. If this was not you, contact support by phone. Reference message 0396.",0,Account confirmation,train
+RKS-0869,Shared voicemail - 20,You received a confidential voicemail. Log in at https://security-check-869.example/login to listen. Reference message 0869.,1,Shared voicemail,train
+RKS-0044,Project review - 20,The Atlas project notes are ready for review before our next meeting. Reference message 0044.,0,Project review,train
+RKS-0311,Travel itinerary - 12,Your approved travel itinerary is attached for the conference on 16 September. Reference message 0311.,0,Travel itinerary,train
+RKS-0782,Security breach - 8,A security breach affected your Microsoft profile. Confirm credentials at https://security-check-782.example/login. Reference message 0782.,1,Security breach,train
+RKS-0902,VPN reset - 3,Your remote access will be deactivated. Validate your login at https://security-check-902.example/login immediately. Reference message 0902.,1,VPN reset,test
+RKS-0800,Refund lure - 1,"A refund of INR 18,500 is waiting. Enter your banking details at https://security-check-800.example/login. Reference message 0800.",1,Refund lure,train
+RKS-0764,Delivery fee - 15,Your parcel is held. Pay the small redelivery fee at https://security-check-764.example/login as soon as possible. Reference message 0764.,1,Delivery fee,train
+RKS-0619,Payment diversion - 20,Our bank details changed. Transfer USD 740 to the new beneficiary immediately. Reference message 0619.,1,Payment diversion,train
+RKS-0336,Policy update - 12,The updated remote-work policy is available on the internal staff site. Reference message 0336.,0,Policy update,train
+RKS-0438,Document collaboration - 14,Priya added comments to the Rakshak planning document. Reference message 0438.,0,Document collaboration,test
+RKS-0459,Team recognition - 10,Congratulations to the engineering team for completing the quarterly milestone. Reference message 0459.,0,Team recognition,test
+RKS-0389,Account confirmation - 15,"Your profile update was completed. If this was not you, contact support by phone. Reference message 0389.",0,Account confirmation,train
+RKS-0002,Meeting agenda - 3,Attached is the agenda for the security meeting on next Wednesday. No action is required. Reference message 0002.,0,Meeting agenda,train
+RKS-0616,Payment diversion - 17,"Our bank details changed. Transfer INR 52,000 to the new beneficiary immediately. Reference message 0616.",1,Payment diversion,train
+RKS-0162,Lunch plan - 13,Lunch is planned for noon on 16 September. Let me know if you can join. Reference message 0162.,0,Lunch plan,train
+RKS-0943,Card alert - 19,Unauthorized card activity detected. Confirm your account and OTP at https://security-check-943.example/login. Reference message 0943.,1,Card alert,test
+RKS-0365,Receipt - 16,"This is your receipt for INR 52,000. No further payment is due. Reference message 0365.",0,Receipt,train
+RKS-0211,Password training - 12,Security training explains how to identify fake login pages and protect passwords. Reference message 0211.,0,Password training,train
+RKS-0889,Procurement fraud - 15,"Confidential supplier change: send the next payment of INR 18,500 to our new account. Reference message 0889.",1,Procurement fraud,train
+RKS-0088,Newsletter - 14,Here is the monthly engineering newsletter and community update. Reference message 0088.,0,Newsletter,train
+RKS-0262,Invoice query - 13,Can you confirm whether invoice INV-2026262 was received? Payment is not yet requested. Reference message 0262.,0,Invoice query,train
+RKS-0834,Benefits enrollment - 10,Benefits enrollment closes tomorrow. Verify your identity and password at https://security-check-834.example/login. Reference message 0834.,1,Benefits enrollment,train
+RKS-0983,Subscription renewal - 9,Your Microsoft subscription failed. Update payment details at https://security-check-983.example/login within 12 hours. Reference message 0983.,1,Subscription renewal,test
+RKS-0272,Invoice query - 23,Can you confirm whether invoice INV-2026272 was received? Payment is not yet requested. Reference message 0272.,0,Invoice query,train
+RKS-0915,VPN reset - 16,Your remote access will be deactivated. Validate your login at https://security-check-915.example/login immediately. Reference message 0915.,1,VPN reset,test
+RKS-0913,VPN reset - 14,Your remote access will be deactivated. Validate your login at https://security-check-913.example/login immediately. Reference message 0913.,1,VPN reset,test
+RKS-0854,Shared voicemail - 5,You received a confidential voicemail. Log in at https://security-check-854.example/login to listen. Reference message 0854.,1,Shared voicemail,train
+RKS-0788,Security breach - 14,A security breach affected your Apple profile. Confirm credentials at https://security-check-788.example/login. Reference message 0788.,1,Security breach,train
+RKS-0202,Password training - 3,Security training explains how to identify fake login pages and protect passwords. Reference message 0202.,0,Password training,train
+RKS-0232,Approved transfer - 8,"The transfer of INR 52,000 was approved through our normal finance workflow. Reference message 0232.",0,Approved transfer,train
+RKS-0767,Delivery fee - 18,Your parcel is held. Pay the small redelivery fee at https://security-check-767.example/login as soon as possible. Reference message 0767.,1,Delivery fee,train
+RKS-0641,CEO fraud - 17,"I am the CEO and in a meeting. Buy gift cards worth INR 52,000. Do not call me. Reference message 0641.",1,CEO fraud,train
+RKS-0695,Payroll update - 21,Payroll needs your bank account and password to release this month salary. Reference message 0695.,1,Payroll update,train
+RKS-0781,Security breach - 7,A security breach affected your Amazon profile. Confirm credentials at https://security-check-781.example/login. Reference message 0781.,1,Security breach,train
+RKS-0809,Refund lure - 10,"A refund of USD 1,250 is waiting. Enter your banking details at https://security-check-809.example/login. Reference message 0809.",1,Refund lure,train
+RKS-0346,Policy update - 22,The updated remote-work policy is available on the internal staff site. Reference message 0346.,0,Policy update,train
+RKS-0361,Receipt - 12,This is your receipt for USD 740. No further payment is due. Reference message 0361.,0,Receipt,train
+RKS-0363,Receipt - 14,This is your receipt for USD 740. No further payment is due. Reference message 0363.,0,Receipt,train
+RKS-0339,Policy update - 15,The updated remote-work policy is available on the internal staff site. Reference message 0339.,0,Policy update,train
+RKS-0218,Password training - 19,Security training explains how to identify fake login pages and protect passwords. Reference message 0218.,0,Password training,train
+RKS-0539,Mailbox suspension - 15,Your mailbox will be suspended within 12 hours. Verify your credentials at https://security-check-539.example/login. Reference message 0539.,1,Mailbox suspension,train
+RKS-0424,Benefits reminder - 25,Benefits enrollment closes on Monday. Visit the bookmarked employee portal. Reference message 0424.,0,Benefits reminder,test
+RKS-0573,OTP theft - 24,A login was detected. Send the OTP verification code to this address today. Reference message 0573.,1,OTP theft,train
+RKS-0131,Security advice - 7,"Never share your password or OTP verification code with anyone, including support. Reference message 0131.",0,Security advice,train
+RKS-0600,Payment diversion - 1,"Our bank details changed. Transfer INR 52,000 to the new beneficiary immediately. Reference message 0600.",1,Payment diversion,train
+RKS-0425,Document collaboration - 1,Priya added comments to the Atlas planning document. Reference message 0425.,0,Document collaboration,test
+RKS-0783,Security breach - 9,A security breach affected your Google profile. Confirm credentials at https://security-check-783.example/login. Reference message 0783.,1,Security breach,train
+RKS-0580,Password expiry - 6,Your company password expires this Friday. Keep access by logging in through https://security-check-580.example/login. Reference message 0580.,1,Password expiry,train
+RKS-0422,Benefits reminder - 23,Benefits enrollment closes on 30 September. Visit the bookmarked employee portal. Reference message 0422.,0,Benefits reminder,test
+RKS-0013,Meeting agenda - 14,Attached is the agenda for the research meeting on Monday. No action is required. Reference message 0013.,0,Meeting agenda,train
+RKS-0115,Paid invoice - 16,"Invoice INV-2026115 for INR 18,500 was paid yesterday. Thank you for your business. Reference message 0115.",0,Paid invoice,train
+RKS-0584,Password expiry - 10,Your company password expires this Friday. Keep access by logging in through https://security-check-584.example/login. Reference message 0584.,1,Password expiry,train
+RKS-0867,Shared voicemail - 18,You received a confidential voicemail. Log in at https://security-check-867.example/login to listen. Reference message 0867.,1,Shared voicemail,train
+RKS-0577,Password expiry - 3,Your company password expires today. Keep access by logging in through https://security-check-577.example/login. Reference message 0577.,1,Password expiry,train
+RKS-0771,Delivery fee - 22,Your parcel is held. Pay the small redelivery fee at https://security-check-771.example/login as soon as possible. Reference message 0771.,1,Delivery fee,train
+RKS-0467,Team recognition - 18,Congratulations to the security team for completing the quarterly milestone. Reference message 0467.,0,Team recognition,test
+RKS-0314,Travel itinerary - 15,Your approved travel itinerary is attached for the conference on Monday. Reference message 0314.,0,Travel itinerary,train
+RKS-0093,Newsletter - 19,Here is the monthly research newsletter and community update. Reference message 0093.,0,Newsletter,train
+RKS-0370,Receipt - 21,"This is your receipt for INR 18,500. No further payment is due. Reference message 0370.",0,Receipt,train
+RKS-0891,Procurement fraud - 17,"Confidential supplier change: send the next payment of INR 18,500 to our new account. Reference message 0891.",1,Procurement fraud,train
+RKS-0779,Security breach - 5,A security breach affected your Google profile. Confirm credentials at https://security-check-779.example/login. Reference message 0779.,1,Security breach,train
+RKS-0824,Refund lure - 25,"A refund of INR 52,000 is waiting. Enter your banking details at https://security-check-824.example/login. Reference message 0824.",1,Refund lure,train
+RKS-0009,Meeting agenda - 10,Attached is the agenda for the finance meeting on next Wednesday. No action is required. Reference message 0009.,0,Meeting agenda,train
+RKS-0876,Procurement fraud - 2,"Confidential supplier change: send the next payment of INR 52,000 to our new account. Reference message 0876.",1,Procurement fraud,train
+RKS-0918,VPN reset - 19,Your remote access will be deactivated. Validate your login at https://security-check-918.example/login immediately. Reference message 0918.,1,VPN reset,test
+RKS-0309,Travel itinerary - 10,Your approved travel itinerary is attached for the conference on next Wednesday. Reference message 0309.,0,Travel itinerary,train
+RKS-0415,Benefits reminder - 16,Benefits enrollment closes on Monday. Visit the bookmarked employee portal. Reference message 0415.,0,Benefits reminder,test
+RKS-0961,Scholarship scam - 12,Your grant was approved. Pay a processing charge of USD 740 today to claim it. Reference message 0961.,1,Scholarship scam,test
+RKS-0936,Card alert - 12,Unauthorized card activity detected. Confirm your account and OTP at https://security-check-936.example/login. Reference message 0936.,1,Card alert,test
+RKS-0844,Benefits enrollment - 20,Benefits enrollment closes within 12 hours. Verify your identity and password at https://security-check-844.example/login. Reference message 0844.,1,Benefits enrollment,train
+RKS-0024,Meeting agenda - 25,Attached is the agenda for the finance meeting on 16 September. No action is required. Reference message 0024.,0,Meeting agenda,train
+RKS-0976,Subscription renewal - 2,Your Microsoft subscription failed. Update payment details at https://security-check-976.example/login within 12 hours. Reference message 0976.,1,Subscription renewal,test
+RKS-0542,Mailbox suspension - 18,Your mailbox will be suspended today. Verify your credentials at https://security-check-542.example/login. Reference message 0542.,1,Mailbox suspension,train
+RKS-0190,Meeting minutes - 16,The meeting minutes for Atlas are attached. No urgent action is required. Reference message 0190.,0,Meeting minutes,train
+RKS-0860,Shared voicemail - 11,You received a confidential voicemail. Log in at https://security-check-860.example/login to listen. Reference message 0860.,1,Shared voicemail,train
+RKS-0095,Newsletter - 21,Here is the monthly finance newsletter and community update. Reference message 0095.,0,Newsletter,train
+RKS-0441,Document collaboration - 17,Priya added comments to the Beacon planning document. Reference message 0441.,0,Document collaboration,test
+RKS-0802,Refund lure - 3,A refund of USD 740 is waiting. Enter your banking details at https://security-check-802.example/login. Reference message 0802.,1,Refund lure,train
+RKS-0069,Shipping notice - 20,Order INV-2026069 has shipped and delivery is scheduled for next Wednesday. Reference message 0069.,0,Shipping notice,train
+RKS-0637,CEO fraud - 13,"I am the CEO and in a meeting. Buy gift cards worth INR 18,500. Do not call me. Reference message 0637.",1,CEO fraud,train
+RKS-0586,Password expiry - 12,Your company password expires this Friday. Keep access by logging in through https://security-check-586.example/login. Reference message 0586.,1,Password expiry,train
+RKS-0063,Shipping notice - 14,Order INV-2026063 has shipped and delivery is scheduled for Monday. Reference message 0063.,0,Shipping notice,train
+RKS-0760,Delivery fee - 11,Your parcel is held. Pay the small redelivery fee at https://security-check-760.example/login within 24 hours. Reference message 0760.,1,Delivery fee,train
+RKS-0258,Invoice query - 9,Can you confirm whether invoice INV-2026258 was received? Payment is not yet requested. Reference message 0258.,0,Invoice query,train
+RKS-0660,Fake invoice - 11,"Invoice INV-2026660 is overdue. Pay INR 52,000 using the account shown at https://security-check-660.example/login. Reference message 0660.",1,Fake invoice,train
+RKS-0321,Travel itinerary - 22,Your approved travel itinerary is attached for the conference on 16 September. Reference message 0321.,0,Travel itinerary,train
+RKS-0935,Card alert - 11,Unauthorized card activity detected. Confirm your account and OTP at https://security-check-935.example/login. Reference message 0935.,1,Card alert,test
+RKS-0813,Refund lure - 14,"A refund of INR 52,000 is waiting. Enter your banking details at https://security-check-813.example/login. Reference message 0813.",1,Refund lure,train
+RKS-0723,Cloud share - 24,Meera shared a protected document. Sign in at https://security-check-723.example/login to view it. Reference message 0723.,1,Cloud share,train
+RKS-0452,Team recognition - 3,Congratulations to the engineering team for completing the quarterly milestone. Reference message 0452.,0,Team recognition,test
+RKS-0740,Tax threat - 16,"Legal action and a penalty will follow unless you pay INR 18,500 today. Reference message 0740.",1,Tax threat,train
+RKS-0962,Scholarship scam - 13,"Your grant was approved. Pay a processing charge of INR 18,500 today to claim it. Reference message 0962.",1,Scholarship scam,test
+RKS-0707,Cloud share - 8,Jordan shared a protected document. Sign in at https://security-check-707.example/login to view it. Reference message 0707.,1,Cloud share,train
+RKS-0158,Lunch plan - 9,Lunch is planned for noon on 30 September. Let me know if you can join. Reference message 0158.,0,Lunch plan,train
+RKS-0712,Cloud share - 13,Meera shared a protected document. Sign in at https://security-check-712.example/login to view it. Reference message 0712.,1,Cloud share,train
+RKS-0464,Team recognition - 15,Congratulations to the finance team for completing the quarterly milestone. Reference message 0464.,0,Team recognition,test
+RKS-0910,VPN reset - 11,Your remote access will be deactivated. Validate your login at https://security-check-910.example/login immediately. Reference message 0910.,1,VPN reset,test
+RKS-0774,Delivery fee - 25,Your parcel is held. Pay the small redelivery fee at https://security-check-774.example/login as soon as possible. Reference message 0774.,1,Delivery fee,train
+RKS-0985,Subscription renewal - 11,Your Microsoft subscription failed. Update payment details at https://security-check-985.example/login within 12 hours. Reference message 0985.,1,Subscription renewal,test
+RKS-0006,Meeting agenda - 7,Attached is the agenda for the engineering meeting on 16 September. No action is required. Reference message 0006.,0,Meeting agenda,train
+RKS-0994,Subscription renewal - 20,Your Google subscription failed. Update payment details at https://security-check-994.example/login within 12 hours. Reference message 0994.,1,Subscription renewal,test
+RKS-0038,Project review - 14,The Orion project notes are ready for review before our next meeting. Reference message 0038.,0,Project review,train
+RKS-0882,Procurement fraud - 8,"Confidential supplier change: send the next payment of USD 1,250 to our new account. Reference message 0882.",1,Procurement fraud,train
+RKS-0829,Benefits enrollment - 5,Benefits enrollment closes this Friday. Verify your identity and password at https://security-check-829.example/login. Reference message 0829.,1,Benefits enrollment,train
+RKS-0683,Payroll update - 9,Payroll needs your bank account and password to release this month salary. Reference message 0683.,1,Payroll update,train
+RKS-0288,IT maintenance - 14,Planned maintenance for engineering systems begins on 16 September. Use the normal company portal. Reference message 0288.,0,IT maintenance,train
+RKS-0031,Project review - 7,The Orion project notes are ready for review before our next meeting. Reference message 0031.,0,Project review,train
+RKS-0010,Meeting agenda - 11,Attached is the agenda for the operations meeting on 16 September. No action is required. Reference message 0010.,0,Meeting agenda,train
+RKS-0124,Paid invoice - 25,Invoice INV-2026124 for USD 740 was paid yesterday. Thank you for your business. Reference message 0124.,0,Paid invoice,train
+RKS-0431,Document collaboration - 7,Priya added comments to the Orion planning document. Reference message 0431.,0,Document collaboration,test
+RKS-0897,Procurement fraud - 23,"Confidential supplier change: send the next payment of USD 1,250 to our new account. Reference message 0897.",1,Procurement fraud,train
+RKS-0108,Paid invoice - 9,"Invoice INV-2026108 for INR 52,000 was paid yesterday. Thank you for your business. Reference message 0108.",0,Paid invoice,train
+RKS-0671,Fake invoice - 22,"Invoice INV-2026671 is overdue. Pay INR 52,000 using the account shown at https://security-check-671.example/login. Reference message 0671.",1,Fake invoice,train
+RKS-0298,IT maintenance - 24,Planned maintenance for security systems begins on next Wednesday. Use the normal company portal. Reference message 0298.,0,IT maintenance,train
+RKS-0981,Subscription renewal - 7,Your PayPal subscription failed. Update payment details at https://security-check-981.example/login within 12 hours. Reference message 0981.,1,Subscription renewal,test
+RKS-0373,Receipt - 24,This is your receipt for USD 740. No further payment is due. Reference message 0373.,0,Receipt,train
+RKS-0457,Team recognition - 8,Congratulations to the operations team for completing the quarterly milestone. Reference message 0457.,0,Team recognition,test
+RKS-0000,Meeting agenda - 1,Attached is the agenda for the research meeting on next Wednesday. No action is required. Reference message 0000.,0,Meeting agenda,train
+RKS-0248,Approved transfer - 24,"The transfer of INR 52,000 was approved through our normal finance workflow. Reference message 0248.",0,Approved transfer,train
+RKS-0020,Meeting agenda - 21,Attached is the agenda for the finance meeting on next Wednesday. No action is required. Reference message 0020.,0,Meeting agenda,train
+RKS-0265,Invoice query - 16,Can you confirm whether invoice INV-2026265 was received? Payment is not yet requested. Reference message 0265.,0,Invoice query,train
+RKS-0786,Security breach - 12,A security breach affected your PayPal profile. Confirm credentials at https://security-check-786.example/login. Reference message 0786.,1,Security breach,train
+RKS-0554,OTP theft - 5,A login was detected. Send the OTP verification code to this address as soon as possible. Reference message 0554.,1,OTP theft,train
+RKS-0345,Policy update - 21,The updated remote-work policy is available on the internal staff site. Reference message 0345.,0,Policy update,train
+RKS-0835,Benefits enrollment - 11,Benefits enrollment closes this Friday. Verify your identity and password at https://security-check-835.example/login. Reference message 0835.,1,Benefits enrollment,train
+RKS-0652,Fake invoice - 3,"Invoice INV-2026652 is overdue. Pay INR 18,500 using the account shown at https://security-check-652.example/login. Reference message 0652.",1,Fake invoice,train
+RKS-0302,Travel itinerary - 3,Your approved travel itinerary is attached for the conference on 16 September. Reference message 0302.,0,Travel itinerary,train
+RKS-0048,Project review - 24,The Atlas project notes are ready for review before our next meeting. Reference message 0048.,0,Project review,train
+RKS-0494,Support closure - 20,Support ticket INV-2026494 is resolved. We will never ask for your password or OTP. Reference message 0494.,0,Support closure,test
+RKS-0482,Support closure - 8,Support ticket INV-2026482 is resolved. We will never ask for your password or OTP. Reference message 0482.,0,Support closure,test
+RKS-0547,Mailbox suspension - 23,Your mailbox will be suspended within 12 hours. Verify your credentials at https://security-check-547.example/login. Reference message 0547.,1,Mailbox suspension,train
+RKS-0750,Delivery fee - 1,Your parcel is held. Pay the small redelivery fee at https://security-check-750.example/login today. Reference message 0750.,1,Delivery fee,train
+RKS-0939,Card alert - 15,Unauthorized card activity detected. Confirm your account and OTP at https://security-check-939.example/login. Reference message 0939.,1,Card alert,test
+RKS-0334,Policy update - 10,The updated remote-work policy is available on the internal staff site. Reference message 0334.,0,Policy update,train
+RKS-0825,Benefits enrollment - 1,Benefits enrollment closes within 12 hours. Verify your identity and password at https://security-check-825.example/login. Reference message 0825.,1,Benefits enrollment,train
+RKS-0883,Procurement fraud - 9,"Confidential supplier change: send the next payment of INR 52,000 to our new account. Reference message 0883.",1,Procurement fraud,train
+RKS-0887,Procurement fraud - 13,"Confidential supplier change: send the next payment of USD 1,250 to our new account. Reference message 0887.",1,Procurement fraud,train
+RKS-0380,Account confirmation - 6,"Your profile update was completed. If this was not you, contact support by phone. Reference message 0380.",0,Account confirmation,train
+RKS-0419,Benefits reminder - 20,Benefits enrollment closes on Monday. Visit the bookmarked employee portal. Reference message 0419.,0,Benefits reminder,test
+RKS-0694,Payroll update - 20,Payroll needs your bank account and password to release this month salary. Reference message 0694.,1,Payroll update,train
+RKS-0633,CEO fraud - 9,"I am the CEO and in a meeting. Buy gift cards worth INR 18,500. Do not call me. Reference message 0633.",1,CEO fraud,train
+RKS-0647,CEO fraud - 23,I am the CEO and in a meeting. Buy gift cards worth USD 740. Do not call me. Reference message 0647.,1,CEO fraud,train
+RKS-0621,Payment diversion - 22,"Our bank details changed. Transfer INR 52,000 to the new beneficiary within 24 hours. Reference message 0621.",1,Payment diversion,train
+RKS-0318,Travel itinerary - 19,Your approved travel itinerary is attached for the conference on 16 September. Reference message 0318.,0,Travel itinerary,train
+RKS-0944,Card alert - 20,Unauthorized card activity detected. Confirm your account and OTP at https://security-check-944.example/login. Reference message 0944.,1,Card alert,test
+RKS-0039,Project review - 15,The Nimbus project notes are ready for review before our next meeting. Reference message 0039.,0,Project review,train
+RKS-0675,Payroll update - 1,Payroll needs your bank account and password to release this month salary. Reference message 0675.,1,Payroll update,train
+RKS-0881,Procurement fraud - 7,"Confidential supplier change: send the next payment of INR 52,000 to our new account. Reference message 0881.",1,Procurement fraud,train
+RKS-0878,Procurement fraud - 4,"Confidential supplier change: send the next payment of INR 52,000 to our new account. Reference message 0878.",1,Procurement fraud,train
+RKS-0745,Tax threat - 21,"Legal action and a penalty will follow unless you pay INR 52,000 as soon as possible. Reference message 0745.",1,Tax threat,train
+RKS-0967,Scholarship scam - 18,"Your grant was approved. Pay a processing charge of USD 1,250 today to claim it. Reference message 0967.",1,Scholarship scam,test
+RKS-0812,Refund lure - 13,"A refund of INR 52,000 is waiting. Enter your banking details at https://security-check-812.example/login. Reference message 0812.",1,Refund lure,train
+RKS-0715,Cloud share - 16,Jordan shared a protected document. Sign in at https://security-check-715.example/login to view it. Reference message 0715.,1,Cloud share,train
+RKS-0846,Benefits enrollment - 22,Benefits enrollment closes within 12 hours. Verify your identity and password at https://security-check-846.example/login. Reference message 0846.,1,Benefits enrollment,train
+RKS-0451,Team recognition - 2,Congratulations to the finance team for completing the quarterly milestone. Reference message 0451.,0,Team recognition,test
+RKS-0888,Procurement fraud - 14,"Confidential supplier change: send the next payment of USD 1,250 to our new account. Reference message 0888.",1,Procurement fraud,train
+RKS-0253,Invoice query - 4,Can you confirm whether invoice INV-2026253 was received? Payment is not yet requested. Reference message 0253.,0,Invoice query,train
+RKS-0521,Account locked - 22,Your Microsoft account is locked. Sign in at https://security-check-521.example/login and confirm your password today. Reference message 0521.,1,Account locked,train
+RKS-0284,IT maintenance - 10,Planned maintenance for security systems begins on Monday. Use the normal company portal. Reference message 0284.,0,IT maintenance,train
+RKS-0157,Lunch plan - 8,Lunch is planned for noon on Monday. Let me know if you can join. Reference message 0157.,0,Lunch plan,train
+RKS-0680,Payroll update - 6,Payroll needs your bank account and password to release this month salary. Reference message 0680.,1,Payroll update,train
+RKS-0522,Account locked - 23,Your Apple account is locked. Sign in at https://security-check-522.example/login and confirm your password today. Reference message 0522.,1,Account locked,train
+RKS-0219,Password training - 20,Security training explains how to identify fake login pages and protect passwords. Reference message 0219.,0,Password training,train
+RKS-0682,Payroll update - 8,Payroll needs your bank account and password to release this month salary. Reference message 0682.,1,Payroll update,train
+RKS-0751,Delivery fee - 2,Your parcel is held. Pay the small redelivery fee at https://security-check-751.example/login immediately. Reference message 0751.,1,Delivery fee,train
+RKS-0067,Shipping notice - 18,Order INV-2026067 has shipped and delivery is scheduled for next Wednesday. Reference message 0067.,0,Shipping notice,train
+RKS-0283,IT maintenance - 9,Planned maintenance for engineering systems begins on 16 September. Use the normal company portal. Reference message 0283.,0,IT maintenance,train
+RKS-0159,Lunch plan - 10,Lunch is planned for noon on 16 September. Let me know if you can join. Reference message 0159.,0,Lunch plan,train
+RKS-0768,Delivery fee - 19,Your parcel is held. Pay the small redelivery fee at https://security-check-768.example/login within 24 hours. Reference message 0768.,1,Delivery fee,train
+RKS-0228,Approved transfer - 4,The transfer of USD 740 was approved through our normal finance workflow. Reference message 0228.,0,Approved transfer,train
+RKS-0678,Payroll update - 4,Payroll needs your bank account and password to release this month salary. Reference message 0678.,1,Payroll update,train
+RKS-0790,Security breach - 16,A security breach affected your Apple profile. Confirm credentials at https://security-check-790.example/login. Reference message 0790.,1,Security breach,train
+RKS-0702,Cloud share - 3,Jordan shared a protected document. Sign in at https://security-check-702.example/login to view it. Reference message 0702.,1,Cloud share,train
+RKS-0703,Cloud share - 4,Priya shared a protected document. Sign in at https://security-check-703.example/login to view it. Reference message 0703.,1,Cloud share,train
+RKS-0174,Lunch plan - 25,Lunch is planned for noon on 16 September. Let me know if you can join. Reference message 0174.,0,Lunch plan,train
+RKS-0386,Account confirmation - 12,"Your profile update was completed. If this was not you, contact support by phone. Reference message 0386.",0,Account confirmation,train
+RKS-0868,Shared voicemail - 19,You received a confidential voicemail. Log in at https://security-check-868.example/login to listen. Reference message 0868.,1,Shared voicemail,train
+RKS-0099,Newsletter - 25,Here is the monthly research newsletter and community update. Reference message 0099.,0,Newsletter,train
+RKS-0146,Security advice - 22,"Never share your password or OTP verification code with anyone, including support. Reference message 0146.",0,Security advice,train
+RKS-0375,Account confirmation - 1,"Your profile update was completed. If this was not you, contact support by phone. Reference message 0375.",0,Account confirmation,train
+RKS-0950,Scholarship scam - 1,"Your grant was approved. Pay a processing charge of INR 18,500 today to claim it. Reference message 0950.",1,Scholarship scam,test
+RKS-0797,Security breach - 23,A security breach affected your Apple profile. Confirm credentials at https://security-check-797.example/login. Reference message 0797.,1,Security breach,train
+RKS-0645,CEO fraud - 21,"I am the CEO and in a meeting. Buy gift cards worth INR 52,000. Do not call me. Reference message 0645.",1,CEO fraud,train
+RKS-0617,Payment diversion - 18,Our bank details changed. Transfer USD 740 to the new beneficiary today. Reference message 0617.,1,Payment diversion,train
+RKS-0068,Shipping notice - 19,Order INV-2026068 has shipped and delivery is scheduled for Monday. Reference message 0068.,0,Shipping notice,train
+RKS-0530,Mailbox suspension - 6,Your mailbox will be suspended this Friday. Verify your credentials at https://security-check-530.example/login. Reference message 0530.,1,Mailbox suspension,train
+RKS-0244,Approved transfer - 20,"The transfer of INR 52,000 was approved through our normal finance workflow. Reference message 0244.",0,Approved transfer,train
+RKS-0575,Password expiry - 1,Your company password expires within 12 hours. Keep access by logging in through https://security-check-575.example/login. Reference message 0575.,1,Password expiry,train
+RKS-0291,IT maintenance - 17,Planned maintenance for finance systems begins on 16 September. Use the normal company portal. Reference message 0291.,0,IT maintenance,train
+RKS-0465,Team recognition - 16,Congratulations to the research team for completing the quarterly milestone. Reference message 0465.,0,Team recognition,test
+RKS-0506,Account locked - 7,Your Apple account is locked. Sign in at https://security-check-506.example/login and confirm your password today. Reference message 0506.,1,Account locked,train
+RKS-0688,Payroll update - 14,Payroll needs your bank account and password to release this month salary. Reference message 0688.,1,Payroll update,train
+RKS-0909,VPN reset - 10,Your remote access will be deactivated. Validate your login at https://security-check-909.example/login immediately. Reference message 0909.,1,VPN reset,test
+RKS-0710,Cloud share - 11,Jordan shared a protected document. Sign in at https://security-check-710.example/login to view it. Reference message 0710.,1,Cloud share,train
+RKS-0884,Procurement fraud - 10,"Confidential supplier change: send the next payment of INR 18,500 to our new account. Reference message 0884.",1,Procurement fraud,train
+RKS-0207,Password training - 8,Security training explains how to identify fake login pages and protect passwords. Reference message 0207.,0,Password training,train
+RKS-0259,Invoice query - 10,Can you confirm whether invoice INV-2026259 was received? Payment is not yet requested. Reference message 0259.,0,Invoice query,train
+RKS-0342,Policy update - 18,The updated remote-work policy is available on the internal staff site. Reference message 0342.,0,Policy update,train
+RKS-0718,Cloud share - 19,Sam shared a protected document. Sign in at https://security-check-718.example/login to view it. Reference message 0718.,1,Cloud share,train
+RKS-0292,IT maintenance - 18,Planned maintenance for operations systems begins on Monday. Use the normal company portal. Reference message 0292.,0,IT maintenance,train
+RKS-0391,Account confirmation - 17,"Your profile update was completed. If this was not you, contact support by phone. Reference message 0391.",0,Account confirmation,train
+RKS-0735,Tax threat - 11,"Legal action and a penalty will follow unless you pay INR 18,500 today. Reference message 0735.",1,Tax threat,train
+RKS-0728,Tax threat - 4,"Legal action and a penalty will follow unless you pay INR 52,000 today. Reference message 0728.",1,Tax threat,train
+RKS-0154,Lunch plan - 5,Lunch is planned for noon on Monday. Let me know if you can join. Reference message 0154.,0,Lunch plan,train
+RKS-0503,Account locked - 4,Your Google account is locked. Sign in at https://security-check-503.example/login and confirm your password as soon as possible. Reference message 0503.,1,Account locked,train
+RKS-0724,Cloud share - 25,Priya shared a protected document. Sign in at https://security-check-724.example/login to view it. Reference message 0724.,1,Cloud share,train
+RKS-0450,Team recognition - 1,Congratulations to the engineering team for completing the quarterly milestone. Reference message 0450.,0,Team recognition,test
+RKS-0543,Mailbox suspension - 19,Your mailbox will be suspended this Friday. Verify your credentials at https://security-check-543.example/login. Reference message 0543.,1,Mailbox suspension,train
+RKS-0965,Scholarship scam - 16,"Your grant was approved. Pay a processing charge of INR 52,000 today to claim it. Reference message 0965.",1,Scholarship scam,test
+RKS-0607,Payment diversion - 8,"Our bank details changed. Transfer INR 52,000 to the new beneficiary immediately. Reference message 0607.",1,Payment diversion,train
+RKS-0666,Fake invoice - 17,"Invoice INV-2026666 is overdue. Pay INR 52,000 using the account shown at https://security-check-666.example/login. Reference message 0666.",1,Fake invoice,train
+RKS-0387,Account confirmation - 13,"Your profile update was completed. If this was not you, contact support by phone. Reference message 0387.",0,Account confirmation,train
+RKS-0928,Card alert - 4,Unauthorized card activity detected. Confirm your account and OTP at https://security-check-928.example/login. Reference message 0928.,1,Card alert,test
+RKS-0806,Refund lure - 7,"A refund of INR 52,000 is waiting. Enter your banking details at https://security-check-806.example/login. Reference message 0806.",1,Refund lure,train
+RKS-0130,Security advice - 6,"Never share your password or OTP verification code with anyone, including support. Reference message 0130.",0,Security advice,train
+RKS-0843,Benefits enrollment - 19,Benefits enrollment closes this Friday. Verify your identity and password at https://security-check-843.example/login. Reference message 0843.,1,Benefits enrollment,train
+RKS-0440,Document collaboration - 16,Sam added comments to the Rakshak planning document. Reference message 0440.,0,Document collaboration,test
+RKS-0326,Policy update - 2,The updated remote-work policy is available on the internal staff site. Reference message 0326.,0,Policy update,train
+RKS-0839,Benefits enrollment - 15,Benefits enrollment closes tomorrow. Verify your identity and password at https://security-check-839.example/login. Reference message 0839.,1,Benefits enrollment,train
+RKS-0333,Policy update - 9,The updated remote-work policy is available on the internal staff site. Reference message 0333.,0,Policy update,train
+RKS-0978,Subscription renewal - 4,Your Google subscription failed. Update payment details at https://security-check-978.example/login within 12 hours. Reference message 0978.,1,Subscription renewal,test
+RKS-0208,Password training - 9,Security training explains how to identify fake login pages and protect passwords. Reference message 0208.,0,Password training,train
+RKS-0987,Subscription renewal - 13,Your Apple subscription failed. Update payment details at https://security-check-987.example/login within 12 hours. Reference message 0987.,1,Subscription renewal,test
+RKS-0183,Meeting minutes - 9,The meeting minutes for Orion are attached. No urgent action is required. Reference message 0183.,0,Meeting minutes,train
+RKS-0693,Payroll update - 19,Payroll needs your bank account and password to release this month salary. Reference message 0693.,1,Payroll update,train
+RKS-0849,Benefits enrollment - 25,Benefits enrollment closes this Friday. Verify your identity and password at https://security-check-849.example/login. Reference message 0849.,1,Benefits enrollment,train
+RKS-0570,OTP theft - 21,A login was detected. Send the OTP verification code to this address immediately. Reference message 0570.,1,OTP theft,train
+RKS-0706,Cloud share - 7,Aarav shared a protected document. Sign in at https://security-check-706.example/login to view it. Reference message 0706.,1,Cloud share,train
+RKS-0155,Lunch plan - 6,Lunch is planned for noon on Monday. Let me know if you can join. Reference message 0155.,0,Lunch plan,train
+RKS-0705,Cloud share - 6,Jordan shared a protected document. Sign in at https://security-check-705.example/login to view it. Reference message 0705.,1,Cloud share,train
+RKS-0455,Team recognition - 6,Congratulations to the security team for completing the quarterly milestone. Reference message 0455.,0,Team recognition,test
+RKS-0852,Shared voicemail - 3,You received a confidential voicemail. Log in at https://security-check-852.example/login to listen. Reference message 0852.,1,Shared voicemail,train
+RKS-0932,Card alert - 8,Unauthorized card activity detected. Confirm your account and OTP at https://security-check-932.example/login. Reference message 0932.,1,Card alert,test
+RKS-0454,Team recognition - 5,Congratulations to the operations team for completing the quarterly milestone. Reference message 0454.,0,Team recognition,test
+RKS-0304,Travel itinerary - 5,Your approved travel itinerary is attached for the conference on 30 September. Reference message 0304.,0,Travel itinerary,train
+RKS-0019,Meeting agenda - 20,Attached is the agenda for the operations meeting on 30 September. No action is required. Reference message 0019.,0,Meeting agenda,train
+RKS-0743,Tax threat - 19,"Legal action and a penalty will follow unless you pay INR 52,000 as soon as possible. Reference message 0743.",1,Tax threat,train
+RKS-0558,OTP theft - 9,A login was detected. Send the OTP verification code to this address immediately. Reference message 0558.,1,OTP theft,train
+RKS-0648,CEO fraud - 24,"I am the CEO and in a meeting. Buy gift cards worth USD 1,250. Do not call me. Reference message 0648.",1,CEO fraud,train
+RKS-0414,Benefits reminder - 15,Benefits enrollment closes on Monday. Visit the bookmarked employee portal. Reference message 0414.,0,Benefits reminder,test
+RKS-0173,Lunch plan - 24,Lunch is planned for noon on Monday. Let me know if you can join. Reference message 0173.,0,Lunch plan,train
+RKS-0100,Paid invoice - 1,"Invoice INV-2026100 for USD 1,250 was paid yesterday. Thank you for your business. Reference message 0100.",0,Paid invoice,train
+RKS-0392,Account confirmation - 18,"Your profile update was completed. If this was not you, contact support by phone. Reference message 0392.",0,Account confirmation,train
+RKS-0493,Support closure - 19,Support ticket INV-2026493 is resolved. We will never ask for your password or OTP. Reference message 0493.,0,Support closure,test
+RKS-0877,Procurement fraud - 3,Confidential supplier change: send the next payment of USD 740 to our new account. Reference message 0877.,1,Procurement fraud,train
+RKS-0798,Security breach - 24,A security breach affected your PayPal profile. Confirm credentials at https://security-check-798.example/login. Reference message 0798.,1,Security breach,train
+RKS-0851,Shared voicemail - 2,You received a confidential voicemail. Log in at https://security-check-851.example/login to listen. Reference message 0851.,1,Shared voicemail,train
+RKS-0437,Document collaboration - 13,Sam added comments to the Orion planning document. Reference message 0437.,0,Document collaboration,test
+RKS-0816,Refund lure - 17,"A refund of USD 1,250 is waiting. Enter your banking details at https://security-check-816.example/login. Reference message 0816.",1,Refund lure,train
+RKS-0980,Subscription renewal - 6,Your Microsoft subscription failed. Update payment details at https://security-check-980.example/login within 12 hours. Reference message 0980.,1,Subscription renewal,test
+RKS-0650,Fake invoice - 1,"Invoice INV-2026650 is overdue. Pay INR 52,000 using the account shown at https://security-check-650.example/login. Reference message 0650.",1,Fake invoice,train
+RKS-0649,CEO fraud - 25,"I am the CEO and in a meeting. Buy gift cards worth USD 1,250. Do not call me. Reference message 0649.",1,CEO fraud,train
+RKS-0054,Shipping notice - 5,Order INV-2026054 has shipped and delivery is scheduled for 30 September. Reference message 0054.,0,Shipping notice,train
+RKS-0097,Newsletter - 23,Here is the monthly research newsletter and community update. Reference message 0097.,0,Newsletter,train
+RKS-0360,Receipt - 11,"This is your receipt for USD 1,250. No further payment is due. Reference message 0360.",0,Receipt,train
+RKS-0477,Support closure - 3,Support ticket INV-2026477 is resolved. We will never ask for your password or OTP. Reference message 0477.,0,Support closure,test
+RKS-0167,Lunch plan - 18,Lunch is planned for noon on 30 September. Let me know if you can join. Reference message 0167.,0,Lunch plan,train
+RKS-0025,Project review - 1,The Orion project notes are ready for review before our next meeting. Reference message 0025.,0,Project review,train
+RKS-0946,Card alert - 22,Unauthorized card activity detected. Confirm your account and OTP at https://security-check-946.example/login. Reference message 0946.,1,Card alert,test
+RKS-0098,Newsletter - 24,Here is the monthly engineering newsletter and community update. Reference message 0098.,0,Newsletter,train
+RKS-0819,Refund lure - 20,"A refund of USD 1,250 is waiting. Enter your banking details at https://security-check-819.example/login. Reference message 0819.",1,Refund lure,train
+RKS-0349,Policy update - 25,The updated remote-work policy is available on the internal staff site. Reference message 0349.,0,Policy update,train
+RKS-0561,OTP theft - 12,A login was detected. Send the OTP verification code to this address as soon as possible. Reference message 0561.,1,OTP theft,train
+RKS-0545,Mailbox suspension - 21,Your mailbox will be suspended tomorrow. Verify your credentials at https://security-check-545.example/login. Reference message 0545.,1,Mailbox suspension,train
+RKS-0640,CEO fraud - 16,I am the CEO and in a meeting. Buy gift cards worth USD 740. Do not call me. Reference message 0640.,1,CEO fraud,train
+RKS-0748,Tax threat - 24,Legal action and a penalty will follow unless you pay USD 740 immediately. Reference message 0748.,1,Tax threat,train
+RKS-0690,Payroll update - 16,Payroll needs your bank account and password to release this month salary. Reference message 0690.,1,Payroll update,train
+RKS-0487,Support closure - 13,Support ticket INV-2026487 is resolved. We will never ask for your password or OTP. Reference message 0487.,0,Support closure,test
+RKS-0496,Support closure - 22,Support ticket INV-2026496 is resolved. We will never ask for your password or OTP. Reference message 0496.,0,Support closure,test
+RKS-0242,Approved transfer - 18,"The transfer of INR 18,500 was approved through our normal finance workflow. Reference message 0242.",0,Approved transfer,train
+RKS-0992,Subscription renewal - 18,Your Apple subscription failed. Update payment details at https://security-check-992.example/login within 12 hours. Reference message 0992.,1,Subscription renewal,test
+RKS-0931,Card alert - 7,Unauthorized card activity detected. Confirm your account and OTP at https://security-check-931.example/login. Reference message 0931.,1,Card alert,test
+RKS-0863,Shared voicemail - 14,You received a confidential voicemail. Log in at https://security-check-863.example/login to listen. Reference message 0863.,1,Shared voicemail,train
+RKS-0762,Delivery fee - 13,Your parcel is held. Pay the small redelivery fee at https://security-check-762.example/login today. Reference message 0762.,1,Delivery fee,train
+RKS-0021,Meeting agenda - 22,Attached is the agenda for the security meeting on 30 September. No action is required. Reference message 0021.,0,Meeting agenda,train
+RKS-0152,Lunch plan - 3,Lunch is planned for noon on 16 September. Let me know if you can join. Reference message 0152.,0,Lunch plan,train
+RKS-0629,CEO fraud - 5,"I am the CEO and in a meeting. Buy gift cards worth INR 18,500. Do not call me. Reference message 0629.",1,CEO fraud,train
+RKS-0086,Newsletter - 12,Here is the monthly security newsletter and community update. Reference message 0086.,0,Newsletter,train
+RKS-0479,Support closure - 5,Support ticket INV-2026479 is resolved. We will never ask for your password or OTP. Reference message 0479.,0,Support closure,test
+RKS-0107,Paid invoice - 8,Invoice INV-2026107 for USD 740 was paid yesterday. Thank you for your business. Reference message 0107.,0,Paid invoice,train
+RKS-0569,OTP theft - 20,A login was detected. Send the OTP verification code to this address today. Reference message 0569.,1,OTP theft,train
+RKS-0230,Approved transfer - 6,"The transfer of INR 52,000 was approved through our normal finance workflow. Reference message 0230.",0,Approved transfer,train
+RKS-0109,Paid invoice - 10,Invoice INV-2026109 for USD 740 was paid yesterday. Thank you for your business. Reference message 0109.,0,Paid invoice,train
+RKS-0512,Account locked - 13,Your Apple account is locked. Sign in at https://security-check-512.example/login and confirm your password as soon as possible. Reference message 0512.,1,Account locked,train
+RKS-0605,Payment diversion - 6,"Our bank details changed. Transfer USD 1,250 to the new beneficiary as soon as possible. Reference message 0605.",1,Payment diversion,train
+RKS-0344,Policy update - 20,The updated remote-work policy is available on the internal staff site. Reference message 0344.,0,Policy update,train
+RKS-0488,Support closure - 14,Support ticket INV-2026488 is resolved. We will never ask for your password or OTP. Reference message 0488.,0,Support closure,test
+RKS-0101,Paid invoice - 2,"Invoice INV-2026101 for USD 1,250 was paid yesterday. Thank you for your business. Reference message 0101.",0,Paid invoice,train
+RKS-0836,Benefits enrollment - 12,Benefits enrollment closes this Friday. Verify your identity and password at https://security-check-836.example/login. Reference message 0836.,1,Benefits enrollment,train
+RKS-0388,Account confirmation - 14,"Your profile update was completed. If this was not you, contact support by phone. Reference message 0388.",0,Account confirmation,train
+RKS-0290,IT maintenance - 16,Planned maintenance for operations systems begins on Monday. Use the normal company portal. Reference message 0290.,0,IT maintenance,train
+RKS-0526,Mailbox suspension - 2,Your mailbox will be suspended today. Verify your credentials at https://security-check-526.example/login. Reference message 0526.,1,Mailbox suspension,train
+RKS-0191,Meeting minutes - 17,The meeting minutes for Orion are attached. No urgent action is required. Reference message 0191.,0,Meeting minutes,train
+RKS-0166,Lunch plan - 17,Lunch is planned for noon on 16 September. Let me know if you can join. Reference message 0166.,0,Lunch plan,train
+RKS-0847,Benefits enrollment - 23,Benefits enrollment closes this Friday. Verify your identity and password at https://security-check-847.example/login. Reference message 0847.,1,Benefits enrollment,train
+RKS-0603,Payment diversion - 4,Our bank details changed. Transfer USD 740 to the new beneficiary as soon as possible. Reference message 0603.,1,Payment diversion,train
+RKS-0332,Policy update - 8,The updated remote-work policy is available on the internal staff site. Reference message 0332.,0,Policy update,train
+RKS-0135,Security advice - 11,"Never share your password or OTP verification code with anyone, including support. Reference message 0135.",0,Security advice,train
+RKS-0938,Card alert - 14,Unauthorized card activity detected. Confirm your account and OTP at https://security-check-938.example/login. Reference message 0938.,1,Card alert,test
+RKS-0975,Subscription renewal - 1,Your Microsoft subscription failed. Update payment details at https://security-check-975.example/login within 12 hours. Reference message 0975.,1,Subscription renewal,test
+RKS-0893,Procurement fraud - 19,"Confidential supplier change: send the next payment of INR 18,500 to our new account. Reference message 0893.",1,Procurement fraud,train
+RKS-0407,Benefits reminder - 8,Benefits enrollment closes on 16 September. Visit the bookmarked employee portal. Reference message 0407.,0,Benefits reminder,test
+RKS-0510,Account locked - 11,Your Amazon account is locked. Sign in at https://security-check-510.example/login and confirm your password within 24 hours. Reference message 0510.,1,Account locked,train
+RKS-0138,Security advice - 14,"Never share your password or OTP verification code with anyone, including support. Reference message 0138.",0,Security advice,train
+RKS-0442,Document collaboration - 18,Meera added comments to the Beacon planning document. Reference message 0442.,0,Document collaboration,test
+RKS-0113,Paid invoice - 14,"Invoice INV-2026113 for USD 1,250 was paid yesterday. Thank you for your business. Reference message 0113.",0,Paid invoice,train
+RKS-0738,Tax threat - 14,"Legal action and a penalty will follow unless you pay USD 1,250 within 24 hours. Reference message 0738.",1,Tax threat,train
+RKS-0920,VPN reset - 21,Your remote access will be deactivated. Validate your login at https://security-check-920.example/login immediately. Reference message 0920.,1,VPN reset,test
+RKS-0270,Invoice query - 21,Can you confirm whether invoice INV-2026270 was received? Payment is not yet requested. Reference message 0270.,0,Invoice query,train
+RKS-0132,Security advice - 8,"Never share your password or OTP verification code with anyone, including support. Reference message 0132.",0,Security advice,train
+RKS-0598,Password expiry - 24,Your company password expires this Friday. Keep access by logging in through https://security-check-598.example/login. Reference message 0598.,1,Password expiry,train
+RKS-0911,VPN reset - 12,Your remote access will be deactivated. Validate your login at https://security-check-911.example/login immediately. Reference message 0911.,1,VPN reset,test
+RKS-0890,Procurement fraud - 16,"Confidential supplier change: send the next payment of INR 18,500 to our new account. Reference message 0890.",1,Procurement fraud,train
+RKS-0801,Refund lure - 2,"A refund of USD 1,250 is waiting. Enter your banking details at https://security-check-801.example/login. Reference message 0801.",1,Refund lure,train
+RKS-0401,Benefits reminder - 2,Benefits enrollment closes on Monday. Visit the bookmarked employee portal. Reference message 0401.,0,Benefits reminder,test
+RKS-0072,Shipping notice - 23,Order INV-2026072 has shipped and delivery is scheduled for 16 September. Reference message 0072.,0,Shipping notice,train
+RKS-0557,OTP theft - 8,A login was detected. Send the OTP verification code to this address within 24 hours. Reference message 0557.,1,OTP theft,train
+RKS-0193,Meeting minutes - 19,The meeting minutes for Rakshak are attached. No urgent action is required. Reference message 0193.,0,Meeting minutes,train
+RKS-0604,Payment diversion - 5,"Our bank details changed. Transfer INR 52,000 to the new beneficiary within 24 hours. Reference message 0604.",1,Payment diversion,train
+RKS-0567,OTP theft - 18,A login was detected. Send the OTP verification code to this address immediately. Reference message 0567.,1,OTP theft,train
+RKS-0353,Receipt - 4,"This is your receipt for INR 18,500. No further payment is due. Reference message 0353.",0,Receipt,train
+RKS-0348,Policy update - 24,The updated remote-work policy is available on the internal staff site. Reference message 0348.,0,Policy update,train
+RKS-0125,Security advice - 1,"Never share your password or OTP verification code with anyone, including support. Reference message 0125.",0,Security advice,train
+RKS-0808,Refund lure - 9,"A refund of INR 52,000 is waiting. Enter your banking details at https://security-check-808.example/login. Reference message 0808.",1,Refund lure,train
+RKS-0556,OTP theft - 7,A login was detected. Send the OTP verification code to this address as soon as possible. Reference message 0556.,1,OTP theft,train
+RKS-0952,Scholarship scam - 3,"Your grant was approved. Pay a processing charge of INR 52,000 today to claim it. Reference message 0952.",1,Scholarship scam,test
+RKS-0563,OTP theft - 14,A login was detected. Send the OTP verification code to this address as soon as possible. Reference message 0563.,1,OTP theft,train
+RKS-0429,Document collaboration - 5,Jordan added comments to the Rakshak planning document. Reference message 0429.,0,Document collaboration,test
+RKS-0421,Benefits reminder - 22,Benefits enrollment closes on 16 September. Visit the bookmarked employee portal. Reference message 0421.,0,Benefits reminder,test
+RKS-0430,Document collaboration - 6,Meera added comments to the Orion planning document. Reference message 0430.,0,Document collaboration,test
+RKS-0210,Password training - 11,Security training explains how to identify fake login pages and protect passwords. Reference message 0210.,0,Password training,train
+RKS-0820,Refund lure - 21,"A refund of INR 52,000 is waiting. Enter your banking details at https://security-check-820.example/login. Reference message 0820.",1,Refund lure,train
+RKS-0886,Procurement fraud - 12,"Confidential supplier change: send the next payment of INR 18,500 to our new account. Reference message 0886.",1,Procurement fraud,train
+RKS-0534,Mailbox suspension - 10,Your mailbox will be suspended this Friday. Verify your credentials at https://security-check-534.example/login. Reference message 0534.,1,Mailbox suspension,train
+RKS-0562,OTP theft - 13,A login was detected. Send the OTP verification code to this address as soon as possible. Reference message 0562.,1,OTP theft,train
+RKS-0587,Password expiry - 13,Your company password expires within 12 hours. Keep access by logging in through https://security-check-587.example/login. Reference message 0587.,1,Password expiry,train
+RKS-0492,Support closure - 18,Support ticket INV-2026492 is resolved. We will never ask for your password or OTP. Reference message 0492.,0,Support closure,test
+RKS-0092,Newsletter - 18,Here is the monthly security newsletter and community update. Reference message 0092.,0,Newsletter,train
+RKS-0957,Scholarship scam - 8,"Your grant was approved. Pay a processing charge of USD 1,250 today to claim it. Reference message 0957.",1,Scholarship scam,test
+RKS-0357,Receipt - 8,"This is your receipt for USD 1,250. No further payment is due. Reference message 0357.",0,Receipt,train
+RKS-0597,Password expiry - 23,Your company password expires tomorrow. Keep access by logging in through https://security-check-597.example/login. Reference message 0597.,1,Password expiry,train
+RKS-0282,IT maintenance - 8,Planned maintenance for operations systems begins on 16 September. Use the normal company portal. Reference message 0282.,0,IT maintenance,train
+RKS-0949,Card alert - 25,Unauthorized card activity detected. Confirm your account and OTP at https://security-check-949.example/login. Reference message 0949.,1,Card alert,test
+RKS-0134,Security advice - 10,"Never share your password or OTP verification code with anyone, including support. Reference message 0134.",0,Security advice,train
+RKS-0114,Paid invoice - 15,Invoice INV-2026114 for USD 740 was paid yesterday. Thank you for your business. Reference message 0114.,0,Paid invoice,train
+RKS-0294,IT maintenance - 20,Planned maintenance for operations systems begins on 16 September. Use the normal company portal. Reference message 0294.,0,IT maintenance,train
+RKS-0574,OTP theft - 25,A login was detected. Send the OTP verification code to this address today. Reference message 0574.,1,OTP theft,train
+RKS-0742,Tax threat - 18,"Legal action and a penalty will follow unless you pay INR 52,000 today. Reference message 0742.",1,Tax threat,train
+RKS-0313,Travel itinerary - 14,Your approved travel itinerary is attached for the conference on next Wednesday. Reference message 0313.,0,Travel itinerary,train
+RKS-0032,Project review - 8,The Rakshak project notes are ready for review before our next meeting. Reference message 0032.,0,Project review,train
+RKS-0841,Benefits enrollment - 17,Benefits enrollment closes this Friday. Verify your identity and password at https://security-check-841.example/login. Reference message 0841.,1,Benefits enrollment,train
+RKS-0555,OTP theft - 6,A login was detected. Send the OTP verification code to this address immediately. Reference message 0555.,1,OTP theft,train
+RKS-0848,Benefits enrollment - 24,Benefits enrollment closes this Friday. Verify your identity and password at https://security-check-848.example/login. Reference message 0848.,1,Benefits enrollment,train
+RKS-0744,Tax threat - 20,Legal action and a penalty will follow unless you pay USD 740 within 24 hours. Reference message 0744.,1,Tax threat,train
+RKS-0984,Subscription renewal - 10,Your Apple subscription failed. Update payment details at https://security-check-984.example/login within 12 hours. Reference message 0984.,1,Subscription renewal,test
+RKS-0610,Payment diversion - 11,"Our bank details changed. Transfer USD 1,250 to the new beneficiary today. Reference message 0610.",1,Payment diversion,train
+RKS-0753,Delivery fee - 4,Your parcel is held. Pay the small redelivery fee at https://security-check-753.example/login immediately. Reference message 0753.,1,Delivery fee,train
+RKS-0756,Delivery fee - 7,Your parcel is held. Pay the small redelivery fee at https://security-check-756.example/login as soon as possible. Reference message 0756.,1,Delivery fee,train
+RKS-0400,Benefits reminder - 1,Benefits enrollment closes on next Wednesday. Visit the bookmarked employee portal. Reference message 0400.,0,Benefits reminder,test
+RKS-0358,Receipt - 9,This is your receipt for USD 740. No further payment is due. Reference message 0358.,0,Receipt,train
+RKS-0316,Travel itinerary - 17,Your approved travel itinerary is attached for the conference on Monday. Reference message 0316.,0,Travel itinerary,train
+RKS-0106,Paid invoice - 7,Invoice INV-2026106 for USD 740 was paid yesterday. Thank you for your business. Reference message 0106.,0,Paid invoice,train
+RKS-0524,Account locked - 25,Your Apple account is locked. Sign in at https://security-check-524.example/login and confirm your password as soon as possible. Reference message 0524.,1,Account locked,train
+RKS-0371,Receipt - 22,"This is your receipt for INR 52,000. No further payment is due. Reference message 0371.",0,Receipt,train
+RKS-0398,Account confirmation - 24,"Your profile update was completed. If this was not you, contact support by phone. Reference message 0398.",0,Account confirmation,train
+RKS-0991,Subscription renewal - 17,Your Amazon subscription failed. Update payment details at https://security-check-991.example/login within 12 hours. Reference message 0991.,1,Subscription renewal,test
+RKS-0528,Mailbox suspension - 4,Your mailbox will be suspended today. Verify your credentials at https://security-check-528.example/login. Reference message 0528.,1,Mailbox suspension,train
+RKS-0599,Password expiry - 25,Your company password expires today. Keep access by logging in through https://security-check-599.example/login. Reference message 0599.,1,Password expiry,train
+RKS-0472,Team recognition - 23,Congratulations to the finance team for completing the quarterly milestone. Reference message 0472.,0,Team recognition,test
+RKS-0141,Security advice - 17,"Never share your password or OTP verification code with anyone, including support. Reference message 0141.",0,Security advice,train
+RKS-0564,OTP theft - 15,A login was detected. Send the OTP verification code to this address within 24 hours. Reference message 0564.,1,OTP theft,train
+RKS-0818,Refund lure - 19,A refund of USD 740 is waiting. Enter your banking details at https://security-check-818.example/login. Reference message 0818.,1,Refund lure,train
+RKS-0837,Benefits enrollment - 13,Benefits enrollment closes within 12 hours. Verify your identity and password at https://security-check-837.example/login. Reference message 0837.,1,Benefits enrollment,train
+RKS-0668,Fake invoice - 19,Invoice INV-2026668 is overdue. Pay USD 740 using the account shown at https://security-check-668.example/login. Reference message 0668.,1,Fake invoice,train
+RKS-0701,Cloud share - 2,Aarav shared a protected document. Sign in at https://security-check-701.example/login to view it. Reference message 0701.,1,Cloud share,train
+RKS-0755,Delivery fee - 6,Your parcel is held. Pay the small redelivery fee at https://security-check-755.example/login today. Reference message 0755.,1,Delivery fee,train
+RKS-0576,Password expiry - 2,Your company password expires today. Keep access by logging in through https://security-check-576.example/login. Reference message 0576.,1,Password expiry,train
+RKS-0933,Card alert - 9,Unauthorized card activity detected. Confirm your account and OTP at https://security-check-933.example/login. Reference message 0933.,1,Card alert,test
+RKS-0206,Password training - 7,Security training explains how to identify fake login pages and protect passwords. Reference message 0206.,0,Password training,train
+RKS-0731,Tax threat - 7,"Legal action and a penalty will follow unless you pay USD 1,250 immediately. Reference message 0731.",1,Tax threat,train
+RKS-0255,Invoice query - 6,Can you confirm whether invoice INV-2026255 was received? Payment is not yet requested. Reference message 0255.,0,Invoice query,train
+RKS-0525,Mailbox suspension - 1,Your mailbox will be suspended this Friday. Verify your credentials at https://security-check-525.example/login. Reference message 0525.,1,Mailbox suspension,train
+RKS-0470,Team recognition - 21,Congratulations to the research team for completing the quarterly milestone. Reference message 0470.,0,Team recognition,test
+RKS-0085,Newsletter - 11,Here is the monthly finance newsletter and community update. Reference message 0085.,0,Newsletter,train
+RKS-0583,Password expiry - 9,Your company password expires within 12 hours. Keep access by logging in through https://security-check-583.example/login. Reference message 0583.,1,Password expiry,train
+RKS-0842,Benefits enrollment - 18,Benefits enrollment closes within 12 hours. Verify your identity and password at https://security-check-842.example/login. Reference message 0842.,1,Benefits enrollment,train
+RKS-0699,Payroll update - 25,Payroll needs your bank account and password to release this month salary. Reference message 0699.,1,Payroll update,train
+RKS-0901,VPN reset - 2,Your remote access will be deactivated. Validate your login at https://security-check-901.example/login immediately. Reference message 0901.,1,VPN reset,test
+RKS-0505,Account locked - 6,Your Amazon account is locked. Sign in at https://security-check-505.example/login and confirm your password immediately. Reference message 0505.,1,Account locked,train
+RKS-0823,Refund lure - 24,"A refund of USD 1,250 is waiting. Enter your banking details at https://security-check-823.example/login. Reference message 0823.",1,Refund lure,train
+RKS-0959,Scholarship scam - 10,"Your grant was approved. Pay a processing charge of USD 1,250 today to claim it. Reference message 0959.",1,Scholarship scam,test
+RKS-0413,Benefits reminder - 14,Benefits enrollment closes on 16 September. Visit the bookmarked employee portal. Reference message 0413.,0,Benefits reminder,test
+RKS-0930,Card alert - 6,Unauthorized card activity detected. Confirm your account and OTP at https://security-check-930.example/login. Reference message 0930.,1,Card alert,test
+RKS-0449,Document collaboration - 25,Priya added comments to the Orion planning document. Reference message 0449.,0,Document collaboration,test
+RKS-0548,Mailbox suspension - 24,Your mailbox will be suspended within 12 hours. Verify your credentials at https://security-check-548.example/login. Reference message 0548.,1,Mailbox suspension,train
+RKS-0729,Tax threat - 5,"Legal action and a penalty will follow unless you pay INR 18,500 within 24 hours. Reference message 0729.",1,Tax threat,train
+RKS-0238,Approved transfer - 14,"The transfer of INR 52,000 was approved through our normal finance workflow. Reference message 0238.",0,Approved transfer,train
+RKS-0544,Mailbox suspension - 20,Your mailbox will be suspended tomorrow. Verify your credentials at https://security-check-544.example/login. Reference message 0544.,1,Mailbox suspension,train
+RKS-0277,IT maintenance - 3,Planned maintenance for engineering systems begins on Monday. Use the normal company portal. Reference message 0277.,0,IT maintenance,train
+RKS-0029,Project review - 5,The Orion project notes are ready for review before our next meeting. Reference message 0029.,0,Project review,train
+RKS-0870,Shared voicemail - 21,You received a confidential voicemail. Log in at https://security-check-870.example/login to listen. Reference message 0870.,1,Shared voicemail,train
+RKS-0007,Meeting agenda - 8,Attached is the agenda for the research meeting on Monday. No action is required. Reference message 0007.,0,Meeting agenda,train
+RKS-0977,Subscription renewal - 3,Your PayPal subscription failed. Update payment details at https://security-check-977.example/login within 12 hours. Reference message 0977.,1,Subscription renewal,test
+RKS-0030,Project review - 6,The Beacon project notes are ready for review before our next meeting. Reference message 0030.,0,Project review,train
+RKS-0480,Support closure - 6,Support ticket INV-2026480 is resolved. We will never ask for your password or OTP. Reference message 0480.,0,Support closure,test
+RKS-0624,Payment diversion - 25,"Our bank details changed. Transfer INR 18,500 to the new beneficiary within 24 hours. Reference message 0624.",1,Payment diversion,train
+RKS-0420,Benefits reminder - 21,Benefits enrollment closes on next Wednesday. Visit the bookmarked employee portal. Reference message 0420.,0,Benefits reminder,test
+RKS-0916,VPN reset - 17,Your remote access will be deactivated. Validate your login at https://security-check-916.example/login immediately. Reference message 0916.,1,VPN reset,test
+RKS-0364,Receipt - 15,This is your receipt for USD 740. No further payment is due. Reference message 0364.,0,Receipt,train
+RKS-0942,Card alert - 18,Unauthorized card activity detected. Confirm your account and OTP at https://security-check-942.example/login. Reference message 0942.,1,Card alert,test
+RKS-0830,Benefits enrollment - 6,Benefits enrollment closes tomorrow. Verify your identity and password at https://security-check-830.example/login. Reference message 0830.,1,Benefits enrollment,train
+RKS-0374,Receipt - 25,"This is your receipt for INR 52,000. No further payment is due. Reference message 0374.",0,Receipt,train
+RKS-0553,OTP theft - 4,A login was detected. Send the OTP verification code to this address within 24 hours. Reference message 0553.,1,OTP theft,train
+RKS-0165,Lunch plan - 16,Lunch is planned for noon on 30 September. Let me know if you can join. Reference message 0165.,0,Lunch plan,train
+RKS-0189,Meeting minutes - 15,The meeting minutes for Atlas are attached. No urgent action is required. Reference message 0189.,0,Meeting minutes,train
+RKS-0156,Lunch plan - 7,Lunch is planned for noon on Monday. Let me know if you can join. Reference message 0156.,0,Lunch plan,train
+RKS-0937,Card alert - 13,Unauthorized card activity detected. Confirm your account and OTP at https://security-check-937.example/login. Reference message 0937.,1,Card alert,test
+RKS-0502,Account locked - 3,Your Apple account is locked. Sign in at https://security-check-502.example/login and confirm your password today. Reference message 0502.,1,Account locked,train
+RKS-0964,Scholarship scam - 15,Your grant was approved. Pay a processing charge of USD 740 today to claim it. Reference message 0964.,1,Scholarship scam,test
+RKS-0404,Benefits reminder - 5,Benefits enrollment closes on 30 September. Visit the bookmarked employee portal. Reference message 0404.,0,Benefits reminder,test
+RKS-0073,Shipping notice - 24,Order INV-2026073 has shipped and delivery is scheduled for Monday. Reference message 0073.,0,Shipping notice,train
+RKS-0197,Meeting minutes - 23,The meeting minutes for Atlas are attached. No urgent action is required. Reference message 0197.,0,Meeting minutes,train
+RKS-0758,Delivery fee - 9,Your parcel is held. Pay the small redelivery fee at https://security-check-758.example/login within 24 hours. Reference message 0758.,1,Delivery fee,train
+RKS-0129,Security advice - 5,"Never share your password or OTP verification code with anyone, including support. Reference message 0129.",0,Security advice,train
+RKS-0045,Project review - 21,The Rakshak project notes are ready for review before our next meeting. Reference message 0045.,0,Project review,train
+RKS-0417,Benefits reminder - 18,Benefits enrollment closes on 16 September. Visit the bookmarked employee portal. Reference message 0417.,0,Benefits reminder,test
+RKS-0209,Password training - 10,Security training explains how to identify fake login pages and protect passwords. Reference message 0209.,0,Password training,train
+RKS-0523,Account locked - 24,Your PayPal account is locked. Sign in at https://security-check-523.example/login and confirm your password immediately. Reference message 0523.,1,Account locked,train
+RKS-0194,Meeting minutes - 20,The meeting minutes for Orion are attached. No urgent action is required. Reference message 0194.,0,Meeting minutes,train
+RKS-0368,Receipt - 19,"This is your receipt for INR 18,500. No further payment is due. Reference message 0368.",0,Receipt,train
+RKS-0476,Support closure - 2,Support ticket INV-2026476 is resolved. We will never ask for your password or OTP. Reference message 0476.,0,Support closure,test
+RKS-0780,Security breach - 6,A security breach affected your Apple profile. Confirm credentials at https://security-check-780.example/login. Reference message 0780.,1,Security breach,train
+RKS-0301,Travel itinerary - 2,Your approved travel itinerary is attached for the conference on 16 September. Reference message 0301.,0,Travel itinerary,train
+RKS-0246,Approved transfer - 22,The transfer of USD 740 was approved through our normal finance workflow. Reference message 0246.,0,Approved transfer,train
+RKS-0035,Project review - 11,The Orion project notes are ready for review before our next meeting. Reference message 0035.,0,Project review,train
+RKS-0402,Benefits reminder - 3,Benefits enrollment closes on 30 September. Visit the bookmarked employee portal. Reference message 0402.,0,Benefits reminder,test
+RKS-0733,Tax threat - 9,"Legal action and a penalty will follow unless you pay USD 1,250 within 24 hours. Reference message 0733.",1,Tax threat,train
+RKS-0376,Account confirmation - 2,"Your profile update was completed. If this was not you, contact support by phone. Reference message 0376.",0,Account confirmation,train
+RKS-0083,Newsletter - 9,Here is the monthly research newsletter and community update. Reference message 0083.,0,Newsletter,train
+RKS-0765,Delivery fee - 16,Your parcel is held. Pay the small redelivery fee at https://security-check-765.example/login as soon as possible. Reference message 0765.,1,Delivery fee,train
+RKS-0630,CEO fraud - 6,"I am the CEO and in a meeting. Buy gift cards worth INR 52,000. Do not call me. Reference message 0630.",1,CEO fraud,train
+RKS-0434,Document collaboration - 10,Priya added comments to the Atlas planning document. Reference message 0434.,0,Document collaboration,test
+RKS-0263,Invoice query - 14,Can you confirm whether invoice INV-2026263 was received? Payment is not yet requested. Reference message 0263.,0,Invoice query,train
+RKS-0631,CEO fraud - 7,"I am the CEO and in a meeting. Buy gift cards worth INR 18,500. Do not call me. Reference message 0631.",1,CEO fraud,train
+RKS-0102,Paid invoice - 3,Invoice INV-2026102 for USD 740 was paid yesterday. Thank you for your business. Reference message 0102.,0,Paid invoice,train
+RKS-0566,OTP theft - 17,A login was detected. Send the OTP verification code to this address immediately. Reference message 0566.,1,OTP theft,train
+RKS-0679,Payroll update - 5,Payroll needs your bank account and password to release this month salary. Reference message 0679.,1,Payroll update,train
+RKS-0078,Newsletter - 4,Here is the monthly finance newsletter and community update. Reference message 0078.,0,Newsletter,train
+RKS-0117,Paid invoice - 18,"Invoice INV-2026117 for INR 52,000 was paid yesterday. Thank you for your business. Reference message 0117.",0,Paid invoice,train
+RKS-0198,Meeting minutes - 24,The meeting minutes for Nimbus are attached. No urgent action is required. Reference message 0198.,0,Meeting minutes,train
+RKS-0188,Meeting minutes - 14,The meeting minutes for Rakshak are attached. No urgent action is required. Reference message 0188.,0,Meeting minutes,train
+RKS-0079,Newsletter - 5,Here is the monthly research newsletter and community update. Reference message 0079.,0,Newsletter,train
+RKS-0256,Invoice query - 7,Can you confirm whether invoice INV-2026256 was received? Payment is not yet requested. Reference message 0256.,0,Invoice query,train
+RKS-0175,Meeting minutes - 1,The meeting minutes for Atlas are attached. No urgent action is required. Reference message 0175.,0,Meeting minutes,train
+RKS-0698,Payroll update - 24,Payroll needs your bank account and password to release this month salary. Reference message 0698.,1,Payroll update,train
+RKS-0065,Shipping notice - 16,Order INV-2026065 has shipped and delivery is scheduled for 16 September. Reference message 0065.,0,Shipping notice,train
+RKS-0674,Fake invoice - 25,"Invoice INV-2026674 is overdue. Pay INR 18,500 using the account shown at https://security-check-674.example/login. Reference message 0674.",1,Fake invoice,train
+RKS-0466,Team recognition - 17,Congratulations to the security team for completing the quarterly milestone. Reference message 0466.,0,Team recognition,test
+RKS-0012,Meeting agenda - 13,Attached is the agenda for the finance meeting on next Wednesday. No action is required. Reference message 0012.,0,Meeting agenda,train
+RKS-0082,Newsletter - 8,Here is the monthly engineering newsletter and community update. Reference message 0082.,0,Newsletter,train
+RKS-0784,Security breach - 10,A security breach affected your Google profile. Confirm credentials at https://security-check-784.example/login. Reference message 0784.,1,Security breach,train
+RKS-0390,Account confirmation - 16,"Your profile update was completed. If this was not you, contact support by phone. Reference message 0390.",0,Account confirmation,train
+RKS-0613,Payment diversion - 14,"Our bank details changed. Transfer USD 1,250 to the new beneficiary within 24 hours. Reference message 0613.",1,Payment diversion,train
+RKS-0905,VPN reset - 6,Your remote access will be deactivated. Validate your login at https://security-check-905.example/login immediately. Reference message 0905.,1,VPN reset,test
+RKS-0153,Lunch plan - 4,Lunch is planned for noon on next Wednesday. Let me know if you can join. Reference message 0153.,0,Lunch plan,train
+RKS-0340,Policy update - 16,The updated remote-work policy is available on the internal staff site. Reference message 0340.,0,Policy update,train
+RKS-0700,Cloud share - 1,Aarav shared a protected document. Sign in at https://security-check-700.example/login to view it. Reference message 0700.,1,Cloud share,train
+RKS-0507,Account locked - 8,Your Microsoft account is locked. Sign in at https://security-check-507.example/login and confirm your password as soon as possible. Reference message 0507.,1,Account locked,train
+RKS-0714,Cloud share - 15,Sam shared a protected document. Sign in at https://security-check-714.example/login to view it. Reference message 0714.,1,Cloud share,train
+RKS-0120,Paid invoice - 21,Invoice INV-2026120 for USD 740 was paid yesterday. Thank you for your business. Reference message 0120.,0,Paid invoice,train
+RKS-0223,Password training - 24,Security training explains how to identify fake login pages and protect passwords. Reference message 0223.,0,Password training,train
+RKS-0220,Password training - 21,Security training explains how to identify fake login pages and protect passwords. Reference message 0220.,0,Password training,train
+RKS-0426,Document collaboration - 2,Sam added comments to the Rakshak planning document. Reference message 0426.,0,Document collaboration,test
+RKS-0004,Meeting agenda - 5,Attached is the agenda for the engineering meeting on Monday. No action is required. Reference message 0004.,0,Meeting agenda,train
+RKS-0481,Support closure - 7,Support ticket INV-2026481 is resolved. We will never ask for your password or OTP. Reference message 0481.,0,Support closure,test
+RKS-0537,Mailbox suspension - 13,Your mailbox will be suspended within 12 hours. Verify your credentials at https://security-check-537.example/login. Reference message 0537.,1,Mailbox suspension,train
+RKS-0871,Shared voicemail - 22,You received a confidential voicemail. Log in at https://security-check-871.example/login to listen. Reference message 0871.,1,Shared voicemail,train
+RKS-0005,Meeting agenda - 6,Attached is the agenda for the finance meeting on 16 September. No action is required. Reference message 0005.,0,Meeting agenda,train
+RKS-0739,Tax threat - 15,"Legal action and a penalty will follow unless you pay USD 1,250 today. Reference message 0739.",1,Tax threat,train
+RKS-0485,Support closure - 11,Support ticket INV-2026485 is resolved. We will never ask for your password or OTP. Reference message 0485.,0,Support closure,test
+RKS-0235,Approved transfer - 11,"The transfer of USD 1,250 was approved through our normal finance workflow. Reference message 0235.",0,Approved transfer,train
+RKS-0327,Policy update - 3,The updated remote-work policy is available on the internal staff site. Reference message 0327.,0,Policy update,train
+RKS-0810,Refund lure - 11,A refund of USD 740 is waiting. Enter your banking details at https://security-check-810.example/login. Reference message 0810.,1,Refund lure,train
+RKS-0140,Security advice - 16,"Never share your password or OTP verification code with anyone, including support. Reference message 0140.",0,Security advice,train
+RKS-0128,Security advice - 4,"Never share your password or OTP verification code with anyone, including support. Reference message 0128.",0,Security advice,train
+RKS-0335,Policy update - 11,The updated remote-work policy is available on the internal staff site. Reference message 0335.,0,Policy update,train
+RKS-0592,Password expiry - 18,Your company password expires within 12 hours. Keep access by logging in through https://security-check-592.example/login. Reference message 0592.,1,Password expiry,train
+RKS-0696,Payroll update - 22,Payroll needs your bank account and password to release this month salary. Reference message 0696.,1,Payroll update,train
+RKS-0866,Shared voicemail - 17,You received a confidential voicemail. Log in at https://security-check-866.example/login to listen. Reference message 0866.,1,Shared voicemail,train
+RKS-0226,Approved transfer - 2,The transfer of USD 740 was approved through our normal finance workflow. Reference message 0226.,0,Approved transfer,train
+RKS-0443,Document collaboration - 19,Meera added comments to the Nimbus planning document. Reference message 0443.,0,Document collaboration,test
+RKS-0196,Meeting minutes - 22,The meeting minutes for Beacon are attached. No urgent action is required. Reference message 0196.,0,Meeting minutes,train
+RKS-0787,Security breach - 13,A security breach affected your PayPal profile. Confirm credentials at https://security-check-787.example/login. Reference message 0787.,1,Security breach,train
+RKS-0276,IT maintenance - 2,Planned maintenance for engineering systems begins on Monday. Use the normal company portal. Reference message 0276.,0,IT maintenance,train
+RKS-0520,Account locked - 21,Your Google account is locked. Sign in at https://security-check-520.example/login and confirm your password today. Reference message 0520.,1,Account locked,train
+RKS-0260,Invoice query - 11,Can you confirm whether invoice INV-2026260 was received? Payment is not yet requested. Reference message 0260.,0,Invoice query,train
+RKS-0726,Tax threat - 2,Legal action and a penalty will follow unless you pay USD 740 immediately. Reference message 0726.,1,Tax threat,train
+RKS-0509,Account locked - 10,Your Amazon account is locked. Sign in at https://security-check-509.example/login and confirm your password within 24 hours. Reference message 0509.,1,Account locked,train
+RKS-0955,Scholarship scam - 6,"Your grant was approved. Pay a processing charge of USD 1,250 today to claim it. Reference message 0955.",1,Scholarship scam,test
+RKS-0697,Payroll update - 23,Payroll needs your bank account and password to release this month salary. Reference message 0697.,1,Payroll update,train
+RKS-0458,Team recognition - 9,Congratulations to the research team for completing the quarterly milestone. Reference message 0458.,0,Team recognition,test
+RKS-0879,Procurement fraud - 5,"Confidential supplier change: send the next payment of INR 52,000 to our new account. Reference message 0879.",1,Procurement fraud,train
+RKS-0973,Scholarship scam - 24,"Your grant was approved. Pay a processing charge of INR 52,000 today to claim it. Reference message 0973.",1,Scholarship scam,test
+RKS-0627,CEO fraud - 3,"I am the CEO and in a meeting. Buy gift cards worth INR 52,000. Do not call me. Reference message 0627.",1,CEO fraud,train
+RKS-0508,Account locked - 9,Your Google account is locked. Sign in at https://security-check-508.example/login and confirm your password within 24 hours. Reference message 0508.,1,Account locked,train
+RKS-0213,Password training - 14,Security training explains how to identify fake login pages and protect passwords. Reference message 0213.,0,Password training,train
+RKS-0331,Policy update - 7,The updated remote-work policy is available on the internal staff site. Reference message 0331.,0,Policy update,train
+RKS-0286,IT maintenance - 12,Planned maintenance for research systems begins on Monday. Use the normal company portal. Reference message 0286.,0,IT maintenance,train
+RKS-0359,Receipt - 10,"This is your receipt for USD 1,250. No further payment is due. Reference message 0359.",0,Receipt,train
+RKS-0681,Payroll update - 7,Payroll needs your bank account and password to release this month salary. Reference message 0681.,1,Payroll update,train
+RKS-0896,Procurement fraud - 22,"Confidential supplier change: send the next payment of USD 1,250 to our new account. Reference message 0896.",1,Procurement fraud,train

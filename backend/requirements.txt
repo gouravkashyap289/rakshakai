@@ -1,0 +1,14 @@
+fastapi>=0.115,<1
+uvicorn[standard]>=0.34,<1
+python-multipart>=0.0.20
+sqlalchemy>=2.0,<3
+scikit-learn>=1.6,<2
+dnspython>=2.7,<3
+dkimpy>=1.1.8,<2
+httpx>=0.28,<1
+bleach>=6.2,<7
+geoip2>=5,<6
+reportlab>=4.3,<5
+pytest>=8,<10
+pypdf>=5,<7
+cryptography>=44,<47

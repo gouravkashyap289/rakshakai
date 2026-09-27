@@ -1,0 +1,5 @@
+import { useState } from 'react';
+import { ReactFlow, Background, Controls, MiniMap } from '@xyflow/react';
+import '@xyflow/react/dist/style.css';
+import { Facts } from '../components/DataTable';
+export default function ForensicGraph({graph}:{graph:any}){const[selected,setSelected]=useState<any>(null);if(!graph)return <div className="empty">No graph available. Analyze this email again to generate graph evidence.</div>;return <><p className="muted">Select a node to inspect its evidence. Pan and zoom to follow infrastructure connections.</p><div className="graph-surface"><ReactFlow nodes={graph.nodes} edges={graph.edges} fitView onNodeClick={(_,node)=>setSelected(node.data)} nodesDraggable={false} colorMode="dark" minZoom={0.1}><Background color="#3c444f" gap={24}/><Controls/><MiniMap nodeColor="#be8b64" maskColor="#11151dc0"/></ReactFlow></div>{graph.truncated&&<p className="muted">Graph display limited to 160 nodes. The complete extracted indicators remain in the IOC table.</p>}{selected&&<section className="node-detail"><h3>{selected.label}</h3><Facts data={selected}/></section>}</>}

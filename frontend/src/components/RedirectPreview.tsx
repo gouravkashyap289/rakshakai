@@ -1,0 +1,8 @@
+import { useState } from 'react';
+import { api } from '../services/api';
+export default function RedirectPreview({caseId,urls}:{caseId:string;urls:any[]}){
+  const [url,setUrl]=useState(urls[0]?.url||''),[result,setResult]=useState<any>(null),[busy,setBusy]=useState(false),[error,setError]=useState('');
+  if(!urls.length)return null;
+  async function check(){setBusy(true);setError('');try{setResult(await api('/investigations/'+caseId+'/redirect-preview',{method:'POST',headers:{'Content-Type':'application/json'},body:JSON.stringify({url})}));}catch(e){setError((e as Error).message);}finally{setBusy(false);}}
+  return <details className="evidence-fold"><summary>Optional redirect check</summary><div className="fold-content"><p>This contacts the destination from the server using HEAD requests. It may trigger tracking links and reveal the server IP to the destination. No page content is downloaded. The operator must enable this feature.</p><label>Link <select style={{maxWidth:'100%'}} value={url} onChange={e=>{setUrl(e.target.value);setResult(null);}}>{urls.map(u=><option key={u.url} value={u.url}>{u.url}</option>)}</select></label><button className="secondary" disabled={busy} onClick={()=>void check()}>{busy?'Checking…':'Contact destination & check redirects'}</button>{error&&<p role="alert">{error}</p>}{result&&<div role="status"><p>{result.status}</p>{result.hops.map((h:any,i:number)=><p className="mono" key={i}>{h.status_code} · {h.url}</p>)}{result.final_destination&&<p className="mono">Observed destination: {result.final_destination}</p>}<p>{result.note}</p></div>}</div></details>;
+}

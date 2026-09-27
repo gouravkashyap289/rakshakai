@@ -1,0 +1,54 @@
+{
+  "model": "TF-IDF (1-2 grams) + logistic regression",
+  "version": 1,
+  "seed": 42,
+  "corpus_type": "synthetic demonstration corpus",
+  "total_examples": 1000,
+  "phishing_examples": 500,
+  "benign_examples": 500,
+  "training_examples": 800,
+  "test_examples": 200,
+  "split_method": "held-out template families (16 train and 4 test families per class)",
+  "accuracy": 0.885,
+  "precision": 0.813,
+  "recall": 1.0,
+  "f1": 0.8969,
+  "confusion_matrix": [
+    [
+      77,
+      23
+    ],
+    [
+      0,
+      100
+    ]
+  ],
+  "classification_report": {
+    "0": {
+      "precision": 1.0,
+      "recall": 0.77,
+      "f1-score": 0.8700564971751412,
+      "support": 100.0
+    },
+    "1": {
+      "precision": 0.8130081300813008,
+      "recall": 1.0,
+      "f1-score": 0.8968609865470852,
+      "support": 100.0
+    },
+    "accuracy": 0.885,
+    "macro avg": {
+      "precision": 0.9065040650406504,
+      "recall": 0.885,
+      "f1-score": 0.8834587418611133,
+      "support": 200.0
+    },
+    "weighted avg": {
+      "precision": 0.9065040650406505,
+      "recall": 0.885,
+      "f1-score": 0.8834587418611133,
+      "support": 200.0
+    }
+  },
+  "limitations": "Metrics measure held-out synthetic families and are not real-world detection accuracy."
+}

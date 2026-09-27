@@ -1,0 +1,15 @@
+.git
+.env
+.vercel
+work
+presentation
+**/node_modules
+**/__pycache__
+**/.pytest_cache
+**/*.log
+**/*.db
+**/*.db-*
+**/*.tsbuildinfo
+backend/tests
+backend/training
+frontend/dist

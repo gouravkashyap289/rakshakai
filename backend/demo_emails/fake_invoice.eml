@@ -1,0 +1,11 @@
+From: Billing <billing@vendor-payments.example>
+To: Finance <finance@college.example>
+Reply-To: settlement@new-beneficiary.example
+Subject: Urgent overdue invoice - new bank account
+MIME-Version: 1.0
+Content-Type: text/plain; charset=utf-8
+
+Please settle this overdue invoice immediately.
+Our payment details changed. Wire transfer the funds to the new bank account.
+Review the payment instructions at http://vendor-payments.example/payment.
+Fictional demonstration only; no real payment destination.
