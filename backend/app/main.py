@@ -100,7 +100,13 @@ async def lifespan(app):
                 await monitor_task
 
 app = FastAPI(title='RAKSHAK Forensic API',version='1.0.0',lifespan=lifespan)
-app.add_middleware(CORSMiddleware, allow_origins=['http://127.0.0.1:5173','http://localhost:5173'], allow_methods=['GET','POST','DELETE'],allow_headers=['Content-Type','X-API-Key'])
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=[os.getenv('PUBLIC_BASE_URL', 'http://127.0.0.1:5173').rstrip('/'), 'http://127.0.0.1:5173', 'http://localhost:5173'],
+    allow_credentials=True,
+    allow_methods=['GET', 'POST', 'PUT', 'PATCH', 'DELETE'],
+    allow_headers=['Content-Type', 'X-API-Key'],
+)
 app.add_middleware(SecurityMiddleware)
 analysis_slots = asyncio.Semaphore(2)
 app.include_router(accounts_router)

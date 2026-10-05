@@ -12,6 +12,8 @@ An HttpOnly, SameSite=Strict browser-session cookie scopes access to uploads, re
 
 For the completed checks and current limitations, see [VALIDATION.md](VALIDATION.md).
 
+For a split Render backend and Vercel frontend deployment, follow [DEPLOYMENT.md](DEPLOYMENT.md). Deploy the backend first; the website's `/api` proxy is configured after Render provides its URL.
+
 ## Quick start with Docker
 
 Copy `.env.example` to `.env`, then run `docker compose up --build` from this directory. Open http://localhost:8080. API documentation is at http://localhost:8000/docs. Both published ports bind only to loopback. Docker itself must be installed and running.
@@ -96,7 +98,7 @@ All secrets are server environment variables. Local development can load a file 
 | `RAKSHAK_MODEL_PATH` | Optional local fine-tuned transformer; install `transformers` and PyTorch separately |
 | `VERIFY_DKIM` | Opt-in dkimpy signature verification using current public DNS; also requires network lookups |
 
-PostgreSQL deployments should install `backend/requirements-postgres.txt` and provision the database before starting the API. GeoLite2 databases and optional transformer files must be mounted into the backend container at the paths specified by their environment variables.
+PostgreSQL deployments should install `backend/requirements-postgres.txt` and provision the database before starting the API. The bundled GeoLite2 files are detected automatically; optional transformer files must be provided at the path specified by `RAKSHAK_MODEL_PATH`.
 
 External lookups disclose the queried indicators to the selected providers. Raw emails and attachments are never submitted. There is no automatic fetching of suspicious URL targets or redirects. This avoids active contact with malicious infrastructure and SSRF through email-controlled URLs; final destinations are explicitly unavailable.
 
