@@ -31,14 +31,14 @@ The old local `.env` example uses `sqlite:////data/rakshak.db` for Docker Compos
 
 Leave `RAKSHAK_API_KEY` unset for the public website. A backend API key cannot be safely placed in the Vercel browser bundle. Keep any secrets in Render's Environment settings, never in Git or `vercel.json`.
 
-After the Render service is live, open `https://YOUR-RENDER-URL/api/health`. It should return `{"status":"ok","engine":"Rakshak AI"}`.
+The Render API is live at `https://rakshakai-2-r1lj.onrender.com`. Its `/api/health` endpoint returns `{"status":"ok","engine":"Rakshak AI"}`.
 
 ## 2. Connect the Vercel website
 
 From the repository's `frontend` directory, run:
 
 ```sh
-npm run configure:backend -- https://YOUR-RENDER-URL.onrender.com
+npm run configure:backend -- https://rakshakai-2-r1lj.onrender.com
 ```
 
 This writes the public backend origin into `frontend/vercel.json` as a `/api` reverse proxy. Commit and push **that file**; Vercel will redeploy from Git. No Vite API environment variable is needed. The URL must be the HTTPS origin only, with no `/api` suffix or trailing path.
